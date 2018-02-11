@@ -1,0 +1,2193 @@
+N=100, muta=10
+
+jecución: 1
+Genotipo resultante: [1, 17, 5, 34, 21, 2, 26, 19, 14, 4, 9, 20, 25, 12, 31, 33, 8, 29, 13, 27, 3, 35, 24, 22, 30, 28, 18, 32, 6, 11, 10, 7, 23, 16, 15]
+Tiempo de ejecución es: 3299
+Terminó en generación: 5000
+Fitness resultante: 315541720
+
+Ejecución: 2
+Genotipo resultante: [35, 6, 19, 31, 1, 4, 12, 16, 7, 14, 28, 30, 20, 23, 17, 21, 15, 29, 2, 9, 13, 3, 5, 33, 26, 24, 25, 11, 18, 10, 32, 22, 8, 27, 34]
+Tiempo de ejecución es: 3771
+Terminó en generación: 5000
+Fitness resultante: 314201440
+
+Ejecución: 3
+Genotipo resultante: [16, 35, 19, 17, 14, 15, 12, 8, 21, 23, 34, 7, 30, 6, 28, 2, 20, 1, 9, 27, 32, 26, 18, 11, 4, 5, 10, 3, 31, 22, 24, 25, 33, 13, 29]
+Tiempo de ejecución es: 3781
+Terminó en generación: 5000
+Fitness resultante: 296861560
+
+Ejecución: 4
+Genotipo resultante: [20, 14, 6, 23, 18, 35, 3, 19, 17, 32, 7, 1, 22, 12, 30, 16, 28, 8, 15, 27, 9, 21, 34, 5, 13, 29, 33, 25, 4, 26, 2, 31, 24, 10, 11]
+Tiempo de ejecución es: 4584
+Terminó en generación: 5000
+Fitness resultante: 316830833
+
+Ejecución: 5
+Genotipo resultante: [11, 3, 31, 29, 8, 4, 9, 33, 10, 34, 26, 32, 5, 22, 18, 25, 24, 2, 13, 27, 16, 30, 21, 6, 23, 19, 7, 35, 17, 28, 15, 14, 20, 1, 12]
+Tiempo de ejecución es: 3737
+Terminó en generación: 5000
+Fitness resultante: 285743259
+
+Ejecución: 6
+Genotipo resultante: [12, 4, 14, 30, 11, 17, 10, 22, 1, 26, 5, 29, 3, 31, 25, 33, 18, 24, 13, 27, 23, 2, 19, 6, 15, 32, 7, 35, 34, 28, 21, 16, 20, 9, 8]
+Tiempo de ejecución es: 3772
+Terminó en generación: 5000
+Fitness resultante: 291657450
+
+Ejecución: 7
+Genotipo resultante: [25, 31, 28, 7, 22, 6, 11, 30, 21, 15, 26, 32, 18, 4, 16, 35, 23, 3, 24, 29, 27, 9, 10, 17, 20, 8, 12, 14, 2, 19, 1, 34, 5, 13, 33]
+Tiempo de ejecución es: 3507
+Terminó en generación: 5000
+Fitness resultante: 313814178
+
+Ejecución: 8
+Genotipo resultante: [25, 32, 11, 31, 8, 10, 9, 33, 26, 18, 29, 34, 5, 22, 3, 24, 4, 2, 13, 27, 23, 17, 30, 7, 35, 14, 6, 28, 16, 19, 21, 15, 1, 20, 12]
+Tiempo de ejecución es: 3735
+Terminó en generación: 5000
+Fitness resultante: 287389921
+
+Ejecución: 9
+Genotipo resultante: [27, 5, 22, 18, 24, 3, 8, 10, 9, 25, 15, 33, 11, 30, 26, 16, 35, 29, 6, 7, 1, 21, 23, 14, 20, 32, 17, 12, 28, 31, 4, 19, 34, 13, 2]
+Tiempo de ejecución es: 3769
+Terminó en generación: 5000
+Fitness resultante: 332863118
+
+Ejecución: 10
+Genotipo resultante: [26, 5, 31, 24, 18, 29, 14, 1, 9, 3, 25, 30, 12, 33, 22, 4, 11, 17, 13, 27, 2, 35, 10, 34, 15, 19, 16, 8, 6, 20, 32, 7, 28, 21, 23]
+Tiempo de ejecución es: 3640
+Terminó en generación: 5000
+Fitness resultante: 292592097
+
+Ejecución: 11
+Genotipo resultante: [16, 26, 35, 24, 5, 15, 3, 22, 29, 30, 7, 9, 18, 25, 33, 6, 23, 8, 13, 27, 21, 20, 11, 31, 2, 10, 4, 32, 17, 28, 34, 19, 14, 1, 12]
+Tiempo de ejecución es: 3572
+Terminó en generación: 5000
+Fitness resultante: 318754618
+
+Ejecución: 12
+Genotipo resultante: [21, 25, 28, 34, 29, 2, 23, 8, 31, 24, 10, 4, 33, 26, 11, 19, 32, 20, 13, 27, 16, 17, 22, 6, 30, 3, 7, 35, 1, 18, 15, 14, 12, 9, 5]
+Tiempo de ejecución es: 3810
+Terminó en generación: 5000
+Fitness resultante: 318065092
+
+Ejecución: 13
+Genotipo resultante: [23, 6, 17, 14, 30, 12, 31, 19, 7, 15, 21, 16, 4, 35, 28, 20, 1, 29, 13, 27, 34, 5, 18, 2, 32, 22, 9, 8, 10, 3, 24, 11, 33, 26, 25]
+Tiempo de ejecución es: 4258
+Terminó en generación: 5000
+Fitness resultante: 310965039
+
+Ejecución: 14
+Genotipo resultante: [5, 33, 3, 11, 17, 22, 20, 19, 13, 14, 18, 1, 34, 30, 8, 32, 10, 12, 2, 9, 16, 29, 21, 35, 7, 24, 6, 28, 25, 23, 15, 26, 31, 27, 4]
+Tiempo de ejecución es: 3493
+Terminó en generación: 5000
+Fitness resultante: 296497915
+
+Ejecución: 15
+Genotipo resultante: [2, 34, 12, 20, 21, 17, 23, 28, 9, 30, 14, 4, 8, 5, 33, 1, 19, 31, 13, 27, 29, 3, 7, 25, 16, 18, 26, 35, 22, 6, 24, 15, 11, 32, 10]
+Tiempo de ejecución es: 3447
+Terminó en generación: 5000
+Fitness resultante: 319744567
+
+Ejecución: 16
+Genotipo resultante: [23, 2, 6, 4, 8, 35, 5, 25, 9, 30, 21, 19, 33, 34, 28, 7, 31, 10, 13, 27, 15, 20, 11, 16, 24, 3, 29, 32, 12, 22, 26, 1, 18, 14, 17]
+Tiempo de ejecución es: 3557
+Terminó en generación: 5000
+Fitness resultante: 326975419
+
+Ejecución: 17
+Genotipo resultante: [2, 10, 6, 15, 18, 28, 24, 23, 32, 22, 7, 3, 8, 11, 19, 35, 16, 30, 34, 27, 1, 25, 26, 20, 21, 9, 12, 17, 4, 29, 14, 31, 5, 13, 33]
+Tiempo de ejecución es: 3489
+Terminó en generación: 5000
+Fitness resultante: 298710156
+
+Ejecución: 18
+Genotipo resultante: [25, 33, 35, 23, 24, 28, 34, 15, 13, 29, 7, 32, 11, 26, 16, 6, 21, 8, 31, 4, 12, 30, 19, 17, 14, 10, 1, 2, 9, 5, 20, 27, 22, 3, 18]
+Tiempo de ejecución es: 3224
+Terminó en generación: 5000
+Fitness resultante: 328355008
+
+Ejecución: 19
+Genotipo resultante: [23, 28, 9, 33, 26, 30, 24, 4, 21, 25, 6, 15, 29, 35, 31, 7, 5, 16, 13, 27, 14, 22, 12, 19, 32, 11, 10, 17, 18, 20, 1, 3, 8, 34, 2]
+Tiempo de ejecución es: 3259
+Terminó en generación: 5000
+Fitness resultante: 317107892
+
+Ejecución: 20
+Genotipo resultante: [2, 19, 35, 7, 14, 6, 1, 30, 34, 20, 15, 17, 8, 28, 21, 16, 23, 12, 9, 27, 29, 33, 32, 4, 26, 5, 31, 11, 13, 10, 24, 25, 22, 3, 18]
+Tiempo de ejecución es: 3327
+Terminó en generación: 5000
+Fitness resultante: 298214313
+
+Ejecución: 21
+Genotipo resultante: [28, 7, 25, 29, 3, 26, 1, 11, 35, 18, 4, 30, 32, 6, 22, 31, 24, 14, 23, 21, 27, 9, 16, 20, 5, 10, 12, 17, 13, 19, 15, 33, 8, 34, 2]
+Tiempo de ejecución es: 3283
+Terminó en generación: 5000
+Fitness resultante: 330824807
+
+Ejecución: 22
+Genotipo resultante: [1, 17, 30, 3, 5, 18, 8, 32, 14, 12, 9, 10, 11, 19, 20, 2, 22, 24, 34, 27, 21, 4, 16, 6, 35, 29, 7, 28, 25, 15, 23, 31, 33, 26, 13]
+Tiempo de ejecución es: 3291
+Terminó en generación: 5000
+Fitness resultante: 287112517
+
+Ejecución: 23
+Genotipo resultante: [23, 34, 6, 30, 10, 7, 11, 5, 21, 19, 28, 8, 32, 2, 9, 35, 33, 24, 13, 27, 16, 12, 18, 26, 29, 20, 25, 22, 1, 3, 15, 31, 17, 4, 14]
+Tiempo de ejecución es: 3328
+Terminó en generación: 5000
+Fitness resultante: 315743443
+
+Ejecución: 24
+Genotipo resultante: [21, 31, 35, 7, 11, 6, 10, 28, 4, 26, 16, 25, 8, 29, 24, 15, 23, 32, 34, 27, 2, 33, 20, 14, 13, 30, 1, 17, 5, 12, 19, 9, 22, 3, 18]
+Tiempo de ejecución es: 3296
+Terminó en generación: 5000
+Fitness resultante: 308749986
+
+Ejecución: 25
+Genotipo resultante: [14, 12, 6, 21, 16, 30, 18, 5, 1, 31, 23, 20, 8, 17, 4, 7, 33, 3, 13, 27, 9, 35, 22, 19, 32, 15, 2, 10, 26, 11, 34, 28, 25, 29, 24]
+Tiempo de ejecución es: 3233
+Terminó en generación: 5000
+Fitness resultante: 340199931
+
+Ejecución: 26
+Genotipo resultante: [23, 6, 31, 25, 15, 4, 22, 8, 7, 24, 29, 16, 11, 35, 28, 21, 26, 10, 34, 27, 9, 17, 3, 5, 13, 19, 33, 30, 1, 18, 2, 14, 20, 32, 12]
+Tiempo de ejecución es: 3206
+Terminó en generación: 5000
+Fitness resultante: 306474414
+
+Ejecución: 27
+Genotipo resultante: [32, 11, 17, 5, 25, 12, 24, 20, 10, 22, 14, 26, 19, 3, 18, 1, 33, 29, 13, 27, 34, 4, 8, 16, 35, 31, 15, 23, 7, 28, 21, 6, 30, 9, 2]
+Tiempo de ejecución es: 3633
+Terminó en generación: 5000
+Fitness resultante: 303652514
+
+Ejecución: 28
+Genotipo resultante: [16, 35, 22, 3, 26, 18, 10, 32, 15, 28, 29, 7, 11, 6, 23, 24, 8, 25, 34, 27, 9, 17, 19, 4, 12, 20, 5, 31, 14, 21, 2, 1, 30, 13, 33]
+Tiempo de ejecución es: 4493
+Terminó en generación: 5000
+Fitness resultante: 307603999
+
+Ejecución: 29
+Genotipo resultante: [28, 6, 21, 34, 5, 2, 17, 20, 35, 33, 23, 13, 19, 7, 30, 9, 8, 12, 16, 15, 27, 26, 32, 14, 4, 11, 1, 18, 25, 3, 22, 31, 10, 29, 24]
+Tiempo de ejecución es: 4071
+Terminó en generación: 5000
+Fitness resultante: 309342875
+
+Ejecución: 30
+Genotipo resultante: [35, 16, 23, 31, 24, 21, 14, 33, 15, 26, 6, 29, 30, 28, 25, 7, 4, 1, 13, 27, 34, 11, 17, 2, 5, 8, 9, 19, 32, 12, 20, 10, 22, 3, 18]
+Tiempo de ejecución es: 3603
+Terminó en generación: 5000
+Fitness resultante: 317498919
+
+N=100, muta=40
+
+
+Ejecución: 1
+Genotipo resultante: [32, 24, 16, 20, 26, 19, 18, 3, 29, 11, 15, 35, 22, 28, 10, 2, 8, 25, 34, 27, 1, 30, 31, 17, 9, 21, 14, 5, 33, 4, 12, 13, 23, 7, 6]
+Tiempo de ejecución es: 4161
+Terminó en generación: 5000
+Fitness resultante: 312558512
+
+Ejecución: 2
+Genotipo resultante: [28, 32, 6, 15, 10, 7, 29, 8, 21, 19, 23, 20, 24, 34, 2, 35, 16, 11, 13, 27, 9, 12, 22, 33, 25, 26, 5, 30, 1, 18, 3, 14, 17, 4, 31]
+Tiempo de ejecución es: 4739
+Terminó en generación: 5000
+Fitness resultante: 307466887
+
+Ejecución: 3
+Genotipo resultante: [3, 25, 11, 32, 8, 5, 12, 2, 26, 24, 10, 29, 34, 22, 18, 33, 9, 1, 13, 27, 15, 30, 20, 28, 23, 17, 35, 21, 7, 19, 16, 6, 14, 4, 31]
+Tiempo de ejecución es: 5747
+Terminó en generación: 5000
+Fitness resultante: 297093985
+
+Ejecución: 4
+Genotipo resultante: [2, 19, 17, 20, 11, 12, 8, 30, 32, 22, 14, 10, 34, 3, 18, 1, 5, 24, 9, 27, 4, 35, 15, 25, 21, 23, 31, 26, 6, 16, 29, 7, 28, 13, 33]
+Tiempo de ejecución es: 4208
+Terminó en generación: 5000
+Fitness resultante: 288033967
+
+Ejecución: 5
+Genotipo resultante: [28, 6, 31, 26, 11, 25, 3, 22, 35, 30, 4, 32, 18, 7, 23, 21, 33, 5, 13, 27, 14, 8, 24, 12, 20, 29, 1, 17, 2, 19, 10, 34, 16, 9, 15]
+Tiempo de ejecución es: 4356
+Terminó en generación: 5000
+Fitness resultante: 303983023
+
+Ejecución: 6
+Genotipo resultante: [20, 12, 31, 16, 19, 29, 23, 24, 1, 2, 21, 14, 8, 17, 34, 4, 15, 28, 13, 27, 35, 3, 5, 6, 25, 18, 7, 30, 22, 33, 9, 26, 32, 10, 11]
+Tiempo de ejecución es: 4739
+Terminó en generación: 5000
+Fitness resultante: 324114466
+
+Ejecución: 7
+Genotipo resultante: [9, 28, 23, 5, 11, 30, 22, 3, 2, 10, 6, 32, 18, 35, 19, 7, 8, 24, 33, 13, 1, 21, 15, 12, 27, 34, 20, 17, 31, 16, 14, 4, 29, 26, 25]
+Tiempo de ejecución es: 5344
+Terminó en generación: 5000
+Fitness resultante: 313900475
+
+Ejecución: 8
+Genotipo resultante: [4, 25, 35, 21, 34, 23, 8, 33, 31, 16, 7, 29, 30, 26, 15, 6, 28, 24, 13, 27, 1, 11, 2, 17, 20, 5, 14, 12, 10, 19, 9, 32, 22, 3, 18]
+Tiempo de ejecución es: 6203
+Terminó en generación: 5000
+Fitness resultante: 305193526
+
+Ejecución: 9
+Genotipo resultante: [35, 6, 28, 2, 20, 19, 1, 8, 15, 17, 23, 16, 14, 7, 30, 21, 34, 12, 9, 27, 10, 4, 18, 11, 26, 29, 24, 3, 31, 22, 32, 25, 5, 13, 33]
+Tiempo de ejecución es: 6682
+Terminó en generación: 5000
+Fitness resultante: 294110127
+
+Ejecución: 10
+Genotipo resultante: [11, 26, 3, 5, 24, 18, 4, 34, 10, 2, 32, 29, 8, 25, 9, 22, 33, 31, 13, 27, 23, 17, 30, 6, 15, 19, 7, 35, 14, 28, 21, 16, 20, 1, 12]
+Tiempo de ejecución es: 5556
+Terminó en generación: 5000
+Fitness resultante: 286629597
+
+Ejecución: 11
+Genotipo resultante: [7, 35, 2, 33, 3, 30, 22, 21, 15, 8, 34, 16, 18, 6, 23, 9, 5, 28, 13, 27, 4, 11, 19, 17, 1, 32, 14, 12, 24, 20, 31, 10, 25, 29, 26]
+Tiempo de ejecución es: 4557
+Terminó en generación: 5000
+Fitness resultante: 303068773
+
+Ejecución: 12
+Genotipo resultante: [15, 6, 33, 34, 20, 5, 17, 30, 35, 21, 16, 28, 19, 7, 23, 13, 8, 12, 2, 9, 29, 22, 14, 4, 25, 10, 31, 24, 27, 11, 1, 26, 18, 32, 3]
+Tiempo de ejecución es: 4230
+Terminó en generación: 5000
+Fitness resultante: 308730136
+
+Ejecución: 13
+Genotipo resultante: [29, 25, 21, 32, 8, 20, 2, 18, 26, 11, 34, 4, 3, 31, 24, 16, 22, 10, 15, 27, 9, 14, 19, 33, 30, 23, 13, 35, 6, 28, 5, 7, 17, 1, 12]
+Tiempo de ejecución es: 4195
+Terminó en generación: 5000
+Fitness resultante: 309294897
+
+Ejecución: 14
+Genotipo resultante: [21, 28, 25, 29, 16, 26, 8, 24, 23, 7, 4, 15, 34, 35, 6, 31, 33, 30, 13, 27, 20, 11, 1, 19, 9, 5, 2, 17, 32, 14, 12, 10, 22, 3, 18]
+Tiempo de ejecución es: 4885
+Terminó en generación: 5000
+Fitness resultante: 306155349
+
+Ejecución: 15
+Genotipo resultante: [31, 10, 33, 34, 29, 5, 19, 8, 4, 26, 21, 32, 24, 11, 25, 13, 2, 28, 9, 27, 15, 30, 3, 35, 7, 18, 6, 23, 14, 22, 16, 1, 20, 17, 12]
+Tiempo de ejecución es: 4207
+Terminó en generación: 5000
+Fitness resultante: 312252881
+
+Ejecución: 16
+Genotipo resultante: [30, 6, 28, 2, 15, 34, 8, 20, 7, 17, 23, 14, 16, 35, 19, 21, 32, 10, 9, 27, 13, 24, 18, 33, 26, 11, 25, 5, 31, 22, 3, 29, 12, 4, 1]
+Tiempo de ejecución es: 4284
+Terminó en generación: 5000
+Fitness resultante: 308091716
+
+Ejecución: 17
+Genotipo resultante: [19, 34, 12, 14, 11, 1, 15, 18, 2, 3, 20, 32, 22, 10, 8, 17, 5, 16, 9, 27, 7, 25, 13, 6, 21, 33, 23, 35, 31, 28, 30, 4, 26, 29, 24]
+Tiempo de ejecución es: 4127
+Terminó en generación: 5000
+Fitness resultante: 287530767
+
+Ejecución: 18
+Genotipo resultante: [21, 28, 25, 24, 7, 29, 12, 8, 15, 6, 31, 16, 1, 35, 23, 26, 34, 20, 13, 27, 5, 2, 30, 3, 11, 4, 32, 18, 9, 22, 33, 10, 19, 14, 17]
+Tiempo de ejecución es: 4275
+Terminó en generación: 5000
+Fitness resultante: 315019850
+
+Ejecución: 19
+Genotipo resultante: [28, 31, 23, 30, 26, 14, 16, 24, 4, 7, 21, 25, 29, 35, 6, 1, 33, 15, 13, 27, 9, 11, 5, 19, 20, 8, 2, 17, 32, 12, 34, 10, 22, 3, 18]
+Tiempo de ejecución es: 4112
+Terminó en generación: 5000
+Fitness resultante: 319541263
+
+Ejecución: 20
+Genotipo resultante: [30, 18, 35, 28, 10, 23, 19, 33, 14, 11, 7, 4, 5, 22, 3, 6, 32, 17, 13, 27, 25, 8, 12, 31, 21, 20, 29, 24, 16, 1, 26, 34, 15, 9, 2]
+Tiempo de ejecución es: 4186
+Terminó en generación: 5000
+Fitness resultante: 322892689
+
+Ejecución: 21
+Genotipo resultante: [31, 25, 7, 23, 17, 35, 20, 30, 4, 14, 21, 1, 19, 26, 29, 6, 28, 12, 16, 15, 27, 8, 18, 3, 13, 24, 10, 11, 5, 32, 22, 33, 34, 9, 2]
+Tiempo de ejecución es: 4168
+Terminó en generación: 5000
+Fitness resultante: 303933620
+
+Ejecución: 22
+Genotipo resultante: [6, 35, 25, 29, 11, 26, 18, 22, 7, 24, 4, 28, 3, 23, 21, 31, 16, 32, 15, 27, 1, 19, 33, 12, 17, 30, 14, 20, 2, 5, 13, 9, 8, 10, 34]
+Tiempo de ejecución es: 4172
+Terminó en generación: 5000
+Fitness resultante: 301269643
+
+Ejecución: 23
+Genotipo resultante: [21, 25, 2, 28, 24, 19, 18, 22, 26, 4, 10, 29, 3, 31, 11, 34, 32, 8, 13, 27, 16, 12, 23, 6, 17, 30, 7, 35, 1, 20, 15, 14, 33, 9, 5]
+Tiempo de ejecución es: 4069
+Terminó en generación: 5000
+Fitness resultante: 309591523
+
+Ejecución: 24
+Genotipo resultante: [35, 16, 17, 1, 19, 14, 24, 31, 15, 21, 6, 28, 29, 23, 20, 7, 12, 30, 4, 27, 13, 18, 25, 33, 3, 8, 5, 11, 32, 26, 10, 22, 34, 9, 2]
+Tiempo de ejecución es: 4225
+Terminó en generación: 5000
+Fitness resultante: 311452564
+
+Ejecución: 25
+Genotipo resultante: [15, 6, 28, 2, 17, 34, 1, 8, 35, 30, 23, 20, 14, 7, 16, 21, 19, 12, 9, 27, 13, 24, 18, 33, 11, 22, 10, 5, 25, 3, 32, 26, 29, 4, 31]
+Tiempo de ejecución es: 4378
+Terminó en generación: 5000
+Fitness resultante: 294475895
+
+Ejecución: 26
+Genotipo resultante: [23, 4, 6, 15, 12, 35, 14, 8, 21, 24, 16, 20, 1, 31, 29, 7, 28, 17, 34, 27, 13, 11, 25, 22, 3, 30, 18, 5, 10, 26, 33, 32, 19, 9, 2]
+Tiempo de ejecución es: 4346
+Terminó en generación: 5000
+Fitness resultante: 307943899
+
+Ejecución: 27
+Genotipo resultante: [16, 14, 6, 23, 8, 35, 3, 22, 1, 12, 15, 29, 18, 17, 20, 7, 30, 24, 34, 27, 13, 26, 5, 10, 28, 21, 19, 32, 9, 11, 33, 2, 25, 4, 31]
+Tiempo de ejecución es: 4164
+Terminó en generación: 5000
+Fitness resultante: 313304948
+
+Ejecución: 28
+Genotipo resultante: [24, 26, 15, 8, 18, 34, 12, 5, 10, 22, 29, 25, 1, 11, 3, 16, 33, 31, 13, 27, 9, 35, 32, 21, 30, 20, 23, 28, 6, 19, 2, 7, 17, 4, 14]
+Tiempo de ejecución es: 4260
+Terminó en generación: 5000
+Fitness resultante: 301727311
+
+Ejecución: 29
+Genotipo resultante: [35, 6, 16, 8, 18, 34, 11, 3, 7, 32, 15, 23, 22, 28, 19, 2, 10, 30, 9, 27, 13, 12, 24, 26, 31, 20, 25, 29, 4, 5, 33, 21, 17, 1, 14]
+Tiempo de ejecución es: 4191
+Terminó en generación: 5000
+Fitness resultante: 299291451
+
+Ejecución: 30
+Genotipo resultante: [31, 25, 6, 35, 34, 23, 30, 15, 4, 29, 21, 24, 33, 26, 16, 7, 28, 8, 13, 27, 14, 5, 22, 20, 19, 3, 17, 12, 9, 18, 1, 2, 11, 10, 32]
+Tiempo de ejecución es: 4543
+Terminó en generación: 5000
+Fitness resultante: 304916035
+
+N=100, muta=70
+
+Ejecución: 1
+Genotipo resultante: [25, 31, 5, 22, 20, 3, 19, 32, 26, 10, 9, 12, 2, 4, 11, 33, 18, 17, 13, 27, 15, 28, 29, 16, 6, 24, 7, 30, 23, 1, 14, 35, 8, 21, 34]
+Tiempo de ejecución es: 6173
+Terminó en generación: 5000
+Fitness resultante: 308831898
+
+Ejecución: 2
+Genotipo resultante: [35, 6, 26, 31, 24, 25, 18, 30, 7, 15, 28, 16, 22, 23, 29, 21, 33, 3, 13, 27, 14, 10, 8, 20, 19, 5, 17, 12, 9, 34, 1, 2, 11, 32, 4]
+Tiempo de ejecución es: 6063
+Terminó en generación: 5000
+Fitness resultante: 308370248
+
+Ejecución: 3
+Genotipo resultante: [15, 3, 6, 30, 11, 35, 25, 5, 22, 8, 16, 10, 33, 18, 24, 7, 23, 26, 9, 27, 4, 20, 2, 31, 14, 19, 1, 21, 12, 34, 29, 17, 28, 13, 32]
+Tiempo de ejecución es: 5735
+Terminó en generación: 5000
+Fitness resultante: 315111954
+
+Ejecución: 4
+Genotipo resultante: [29, 1, 31, 33, 3, 4, 18, 34, 24, 11, 26, 10, 22, 12, 5, 25, 21, 8, 13, 27, 15, 19, 14, 7, 35, 20, 6, 30, 28, 17, 16, 23, 32, 9, 2]
+Tiempo de ejecución es: 5230
+Terminó en generación: 5000
+Fitness resultante: 292361964
+
+Ejecución: 5
+Genotipo resultante: [7, 23, 22, 3, 11, 18, 2, 17, 6, 28, 15, 4, 19, 35, 32, 30, 14, 10, 9, 27, 13, 29, 20, 33, 25, 24, 26, 12, 21, 1, 5, 31, 8, 34, 16]
+Tiempo de ejecución es: 5422
+Terminó en generación: 5000
+Fitness resultante: 317513277
+
+Ejecución: 6
+Genotipo resultante: [14, 12, 6, 30, 19, 35, 8, 23, 1, 5, 13, 20, 28, 17, 33, 7, 9, 2, 15, 16, 27, 26, 18, 34, 4, 11, 21, 22, 25, 3, 32, 31, 10, 29, 24]
+Tiempo de ejecución es: 6192
+Terminó en generación: 5000
+Fitness resultante: 307994128
+
+Ejecución: 7
+Genotipo resultante: [34, 9, 6, 23, 17, 28, 8, 32, 15, 19, 7, 16, 20, 2, 30, 35, 21, 14, 13, 27, 5, 31, 18, 10, 4, 12, 11, 3, 25, 22, 33, 26, 1, 29, 24]
+Tiempo de ejecución es: 5808
+Terminó en generación: 5000
+Fitness resultante: 301857289
+
+Ejecución: 8
+Genotipo resultante: [1, 17, 20, 18, 5, 3, 8, 30, 14, 9, 12, 10, 33, 19, 2, 32, 22, 11, 13, 27, 35, 25, 16, 6, 21, 34, 7, 23, 31, 15, 28, 4, 24, 26, 29]
+Tiempo de ejecución es: 5311
+Terminó en generación: 5000
+Fitness resultante: 286625744
+
+Ejecución: 9
+Genotipo resultante: [4, 25, 10, 3, 34, 5, 2, 18, 31, 24, 11, 29, 8, 26, 22, 33, 32, 9, 13, 27, 17, 23, 1, 19, 35, 30, 28, 20, 6, 12, 14, 7, 21, 15, 16]
+Tiempo de ejecución es: 5280
+Terminó en generación: 5000
+Fitness resultante: 289704760
+
+Ejecución: 10
+Genotipo resultante: [15, 6, 30, 22, 12, 18, 8, 33, 7, 17, 1, 23, 5, 35, 16, 14, 3, 20, 13, 27, 9, 24, 19, 2, 21, 28, 34, 11, 31, 10, 32, 4, 25, 29, 26]
+Tiempo de ejecución es: 5022
+Terminó en generación: 5000
+Fitness resultante: 315148575
+
+Ejecución: 11
+Genotipo resultante: [3, 11, 9, 34, 26, 2, 12, 1, 10, 18, 5, 24, 25, 32, 22, 33, 8, 29, 13, 27, 35, 17, 16, 7, 23, 19, 6, 28, 14, 30, 15, 21, 20, 4, 31]
+Tiempo de ejecución es: 6007
+Terminó en generación: 5000
+Fitness resultante: 295718381
+
+Ejecución: 12
+Genotipo resultante: [13, 14, 30, 28, 20, 21, 34, 19, 1, 5, 9, 12, 2, 17, 33, 23, 35, 8, 6, 7, 27, 22, 15, 31, 26, 24, 25, 29, 11, 16, 4, 10, 18, 32, 3]
+Tiempo de ejecución es: 6455
+Terminó en generación: 5000
+Fitness resultante: 311817555
+
+Ejecución: 13
+Genotipo resultante: [1, 17, 29, 11, 3, 24, 18, 33, 14, 19, 26, 20, 22, 12, 5, 25, 10, 32, 31, 4, 13, 8, 28, 6, 15, 30, 7, 35, 34, 23, 21, 16, 2, 27, 9]
+Tiempo de ejecución es: 6276
+Terminó en generación: 5000
+Fitness resultante: 306589605
+
+Ejecución: 14
+Genotipo resultante: [23, 6, 16, 8, 32, 34, 11, 22, 7, 30, 15, 28, 10, 35, 18, 2, 3, 19, 9, 27, 13, 12, 5, 31, 26, 24, 25, 4, 1, 21, 33, 29, 20, 14, 17]
+Tiempo de ejecución es: 6244
+Terminó en generación: 5000
+Fitness resultante: 298310739
+
+Ejecución: 15
+Genotipo resultante: [33, 31, 12, 17, 22, 14, 11, 20, 13, 3, 5, 25, 32, 4, 18, 1, 30, 26, 9, 27, 34, 23, 19, 16, 35, 28, 15, 8, 7, 10, 2, 6, 24, 21, 29]
+Tiempo de ejecución es: 6391
+Terminó en generación: 5000
+Fitness resultante: 298299576
+
+Ejecución: 16
+Genotipo resultante: [21, 16, 23, 7, 24, 6, 18, 30, 15, 26, 28, 29, 22, 31, 25, 35, 33, 3, 13, 27, 14, 2, 8, 12, 20, 34, 17, 9, 10, 5, 1, 19, 11, 4, 32]
+Tiempo de ejecución es: 6236
+Terminó en generación: 5000
+Fitness resultante: 309318982
+
+Ejecución: 17
+Genotipo resultante: [14, 12, 5, 10, 11, 19, 22, 34, 1, 3, 17, 32, 18, 20, 8, 33, 2, 24, 13, 27, 9, 31, 28, 7, 35, 4, 6, 23, 16, 21, 30, 15, 25, 29, 26]
+Tiempo de ejecución es: 6210
+Terminó en generación: 5000
+Fitness resultante: 289585563
+
+Ejecución: 18
+Genotipo resultante: [15, 29, 6, 28, 11, 23, 33, 4, 16, 25, 35, 24, 22, 26, 31, 7, 21, 32, 13, 27, 9, 20, 18, 1, 17, 3, 14, 12, 2, 5, 30, 19, 8, 10, 34]
+Tiempo de ejecución es: 6209
+Terminó en generación: 5000
+Fitness resultante: 308251040
+
+Ejecución: 19
+Genotipo resultante: [35, 6, 16, 22, 24, 3, 2, 34, 7, 10, 32, 23, 8, 28, 11, 15, 18, 19, 13, 27, 26, 17, 5, 25, 4, 20, 31, 29, 1, 33, 21, 12, 30, 9, 14]
+Tiempo de ejecución es: 6337
+Terminó en generación: 5000
+Fitness resultante: 300539270
+
+Ejecución: 20
+Genotipo resultante: [20, 12, 2, 8, 18, 34, 22, 32, 17, 3, 19, 14, 11, 1, 5, 10, 33, 24, 13, 27, 15, 9, 23, 35, 21, 30, 28, 6, 31, 7, 16, 4, 29, 26, 25]
+Tiempo de ejecución es: 6250
+Terminó en generación: 5000
+Fitness resultante: 290791117
+
+Ejecución: 21
+Genotipo resultante: [26, 31, 11, 3, 34, 22, 19, 8, 25, 29, 10, 21, 2, 4, 24, 32, 18, 28, 13, 27, 7, 30, 35, 1, 17, 23, 14, 16, 20, 15, 6, 12, 33, 9, 5]
+Tiempo de ejecución es: 6260
+Terminó en generación: 5000
+Fitness resultante: 311780022
+
+Ejecución: 22
+Genotipo resultante: [33, 5, 28, 30, 3, 32, 19, 18, 9, 10, 13, 25, 22, 26, 11, 35, 23, 2, 6, 7, 27, 20, 8, 29, 14, 34, 1, 16, 12, 15, 24, 17, 21, 4, 31]
+Tiempo de ejecución es: 5299
+Terminó en generación: 5000
+Fitness resultante: 318808457
+
+Ejecución: 23
+Genotipo resultante: [30, 6, 2, 5, 18, 33, 22, 21, 7, 16, 9, 15, 3, 35, 23, 34, 8, 28, 13, 27, 26, 11, 19, 25, 4, 10, 31, 12, 24, 17, 20, 29, 14, 32, 1]
+Tiempo de ejecución es: 5132
+Terminó en generación: 5000
+Fitness resultante: 305203157
+
+Ejecución: 24
+Genotipo resultante: [21, 2, 6, 16, 31, 35, 19, 28, 34, 29, 23, 9, 4, 8, 24, 7, 15, 10, 13, 27, 26, 32, 11, 22, 3, 5, 18, 30, 1, 33, 25, 14, 17, 20, 12]
+Tiempo de ejecución es: 5479
+Terminó en generación: 5000
+Fitness resultante: 319896711
+
+Ejecución: 25
+Genotipo resultante: [14, 12, 30, 2, 22, 9, 11, 10, 1, 3, 5, 20, 8, 17, 18, 33, 19, 32, 13, 27, 15, 4, 34, 35, 7, 24, 6, 23, 31, 28, 16, 21, 29, 26, 25]
+Tiempo de ejecución es: 5459
+Terminó en generación: 5000
+Fitness resultante: 283933003
+
+Ejecución: 26
+Genotipo resultante: [7, 14, 35, 29, 20, 16, 3, 8, 1, 18, 6, 17, 22, 30, 23, 15, 24, 12, 34, 27, 9, 5, 32, 31, 21, 11, 4, 25, 33, 26, 2, 13, 28, 10, 19]
+Tiempo de ejecución es: 6319
+Terminó en generación: 5000
+Fitness resultante: 311326582
+
+Ejecución: 27
+Genotipo resultante: [15, 14, 6, 28, 12, 23, 34, 21, 16, 20, 35, 1, 2, 17, 19, 7, 30, 8, 9, 27, 29, 11, 18, 26, 31, 32, 25, 22, 10, 3, 24, 4, 5, 13, 33]
+Tiempo de ejecución es: 5790
+Terminó en generación: 5000
+Fitness resultante: 294215815
+
+Ejecución: 28
+Genotipo resultante: [19, 20, 25, 4, 24, 31, 33, 32, 17, 1, 10, 14, 5, 12, 29, 26, 11, 13, 2, 9, 7, 34, 18, 35, 23, 22, 6, 28, 15, 21, 30, 27, 3, 16, 8]
+Tiempo de ejecución es: 5803
+Terminó en generación: 5000
+Fitness resultante: 314010282
+
+Ejecución: 29
+Genotipo resultante: [21, 31, 6, 28, 20, 35, 29, 16, 4, 17, 23, 12, 19, 1, 14, 7, 15, 24, 13, 27, 26, 33, 18, 11, 32, 30, 10, 3, 5, 22, 25, 9, 8, 2, 34]
+Tiempo de ejecución es: 6621
+Terminó en generación: 5000
+Fitness resultante: 306459201
+
+Ejecución: 30
+Genotipo resultante: [5, 4, 17, 33, 19, 14, 23, 34, 9, 21, 12, 2, 8, 31, 20, 1, 30, 28, 13, 27, 16, 18, 25, 6, 15, 24, 7, 35, 3, 26, 29, 22, 11, 32, 10]
+Tiempo de ejecución es: 7053
+Terminó en generación: 5000
+Fitness resultante: 317124253
+
+N=100, muta=100
+
+
+Ejecución: 1
+Genotipo resultante: [15, 2, 6, 23, 3, 28, 24, 18, 16, 32, 35, 10, 22, 19, 8, 7, 30, 11, 34, 27, 17, 25, 13, 12, 1, 21, 14, 5, 31, 33, 20, 4, 29, 9, 26]
+Tiempo de ejecución es: 7130
+Terminó en generación: 5000
+Fitness resultante: 299895667
+
+Ejecución: 2
+Genotipo resultante: [4, 6, 25, 29, 11, 26, 18, 24, 7, 28, 21, 32, 22, 35, 23, 31, 16, 3, 15, 27, 2, 9, 8, 20, 17, 5, 12, 19, 14, 10, 34, 1, 30, 13, 33]
+Tiempo de ejecución es: 6014
+Terminó en generación: 5000
+Fitness resultante: 300248837
+
+Ejecución: 3
+Genotipo resultante: [15, 26, 7, 28, 24, 23, 8, 30, 16, 4, 35, 29, 33, 25, 31, 6, 21, 34, 13, 27, 14, 32, 22, 12, 20, 11, 17, 3, 19, 18, 1, 10, 5, 9, 2]
+Tiempo de ejecución es: 6091
+Terminó en generación: 5000
+Fitness resultante: 303975042
+
+Ejecución: 4
+Genotipo resultante: [15, 18, 6, 23, 10, 16, 25, 29, 3, 11, 35, 32, 26, 22, 24, 7, 8, 28, 34, 27, 1, 2, 21, 12, 14, 19, 17, 4, 5, 31, 20, 9, 30, 13, 33]
+Tiempo de ejecución es: 6076
+Terminó en generación: 5000
+Fitness resultante: 304833926
+
+Ejecución: 5
+Genotipo resultante: [30, 6, 17, 20, 3, 12, 11, 8, 7, 22, 14, 23, 24, 35, 18, 1, 32, 10, 16, 15, 4, 5, 19, 25, 21, 34, 31, 26, 33, 28, 29, 13, 2, 27, 9]
+Tiempo de ejecución es: 6232
+Terminó en generación: 5000
+Fitness resultante: 327600915
+
+Ejecución: 6
+Genotipo resultante: [5, 25, 12, 20, 3, 17, 18, 32, 33, 11, 1, 29, 22, 26, 10, 14, 19, 24, 13, 27, 9, 2, 4, 7, 23, 31, 6, 35, 34, 28, 30, 21, 8, 15, 16]
+Tiempo de ejecución es: 8230
+Terminó en generación: 5000
+Fitness resultante: 302843073
+
+Ejecución: 7
+Genotipo resultante: [25, 31, 24, 3, 6, 11, 23, 32, 29, 35, 26, 21, 28, 4, 16, 22, 18, 7, 15, 27, 13, 30, 8, 19, 9, 5, 2, 10, 14, 33, 34, 17, 20, 1, 12]
+Tiempo de ejecución es: 8139
+Terminó en generación: 5000
+Fitness resultante: 302427390
+
+Ejecución: 8
+Genotipo resultante: [1, 31, 12, 16, 10, 20, 32, 2, 4, 24, 14, 21, 19, 29, 8, 17, 34, 11, 15, 27, 13, 6, 25, 5, 9, 26, 33, 18, 7, 22, 3, 30, 35, 23, 28]
+Tiempo de ejecución es: 7804
+Terminó en generación: 5000
+Fitness resultante: 319347255
+
+Ejecución: 9
+Genotipo resultante: [1, 17, 6, 15, 3, 35, 33, 22, 14, 18, 16, 20, 8, 12, 30, 7, 23, 5, 13, 27, 21, 32, 19, 25, 4, 11, 31, 26, 2, 10, 28, 34, 24, 9, 29]
+Tiempo de ejecución es: 7261
+Terminó en generación: 5000
+Fitness resultante: 316148599
+
+Ejecución: 10
+Genotipo resultante: [35, 6, 28, 25, 18, 26, 24, 33, 15, 30, 23, 16, 29, 7, 22, 21, 31, 3, 13, 27, 14, 32, 8, 19, 2, 11, 17, 10, 12, 34, 1, 20, 4, 9, 5]
+Tiempo de ejecución es: 7676
+Terminó en generación: 5000
+Fitness resultante: 311751798
+
+Ejecución: 11
+Genotipo resultante: [20, 19, 15, 2, 12, 16, 1, 24, 17, 6, 23, 7, 29, 28, 35, 21, 8, 14, 34, 27, 26, 5, 22, 25, 4, 18, 31, 11, 33, 3, 10, 13, 32, 9, 30]
+Tiempo de ejecución es: 6921
+Terminó en generación: 5000
+Fitness resultante: 307493189
+
+Ejecución: 12
+Genotipo resultante: [11, 26, 5, 22, 17, 3, 20, 1, 10, 31, 32, 4, 14, 25, 12, 33, 18, 19, 13, 27, 29, 35, 21, 16, 23, 28, 15, 34, 7, 8, 24, 6, 30, 9, 2]
+Tiempo de ejecución es: 6673
+Terminó en generación: 5000
+Fitness resultante: 295699340
+
+Ejecución: 13
+Genotipo resultante: [35, 6, 16, 22, 17, 8, 20, 3, 7, 19, 15, 30, 32, 23, 28, 2, 18, 14, 34, 27, 13, 29, 10, 5, 26, 24, 33, 4, 31, 11, 9, 25, 12, 21, 1]
+Tiempo de ejecución es: 6462
+Terminó en generación: 5000
+Fitness resultante: 311344632
+
+Ejecución: 14
+Genotipo resultante: [5, 1, 30, 6, 20, 7, 34, 23, 14, 16, 9, 17, 8, 12, 15, 33, 35, 2, 13, 27, 21, 29, 19, 4, 32, 24, 31, 11, 26, 10, 28, 25, 18, 3, 22]
+Tiempo de ejecución es: 6423
+Terminó en generación: 5000
+Fitness resultante: 317936347
+
+Ejecución: 15
+Genotipo resultante: [13, 5, 31, 34, 28, 25, 11, 26, 33, 19, 21, 20, 10, 12, 17, 4, 2, 32, 9, 27, 14, 29, 8, 18, 24, 23, 30, 22, 16, 3, 1, 15, 35, 7, 6]
+Tiempo de ejecución es: 5979
+Terminó en generación: 5000
+Fitness resultante: 319176989
+
+Ejecución: 16
+Genotipo resultante: [21, 33, 26, 10, 35, 4, 6, 8, 13, 19, 25, 2, 23, 34, 28, 31, 11, 7, 24, 29, 1, 16, 18, 14, 12, 3, 17, 20, 15, 22, 32, 27, 30, 9, 5]
+Tiempo de ejecución es: 6002
+Terminó en generación: 5000
+Fitness resultante: 337249583
+
+Ejecución: 17
+Genotipo resultante: [23, 34, 6, 16, 20, 15, 12, 14, 21, 19, 35, 8, 17, 2, 28, 7, 30, 1, 9, 27, 13, 26, 22, 5, 4, 18, 33, 11, 25, 3, 10, 31, 32, 29, 24]
+Tiempo de ejecución es: 5922
+Terminó en generación: 5000
+Fitness resultante: 296220200
+
+Ejecución: 18
+Genotipo resultante: [21, 6, 17, 20, 30, 12, 22, 29, 23, 15, 14, 35, 24, 7, 16, 1, 31, 18, 4, 27, 32, 33, 34, 25, 2, 8, 26, 10, 5, 3, 11, 9, 19, 13, 28]
+Tiempo de ejecución es: 5890
+Terminó en generación: 5000
+Fitness resultante: 324862613
+
+Ejecución: 19
+Genotipo resultante: [12, 1, 9, 19, 24, 2, 4, 32, 20, 8, 17, 29, 11, 14, 34, 5, 10, 31, 33, 13, 27, 26, 3, 7, 35, 25, 6, 22, 28, 18, 30, 23, 21, 15, 16]
+Tiempo de ejecución es: 6239
+Terminó en generación: 5000
+Fitness resultante: 318547600
+
+Ejecución: 20
+Genotipo resultante: [24, 26, 10, 3, 12, 5, 8, 18, 29, 31, 11, 1, 32, 25, 4, 33, 22, 20, 13, 27, 21, 35, 17, 30, 9, 2, 23, 28, 6, 19, 14, 7, 34, 16, 15]
+Tiempo de ejecución es: 5911
+Terminó en generación: 5000
+Fitness resultante: 291805296
+
+Ejecución: 21
+Genotipo resultante: [21, 25, 6, 28, 24, 35, 18, 34, 26, 16, 23, 29, 22, 31, 15, 7, 30, 8, 9, 27, 13, 4, 3, 19, 32, 11, 10, 33, 14, 5, 2, 17, 20, 1, 12]
+Tiempo de ejecución es: 6024
+Terminó en generación: 5000
+Fitness resultante: 316655445
+
+Ejecución: 22
+Genotipo resultante: [15, 2, 6, 23, 14, 28, 22, 32, 9, 19, 7, 17, 18, 34, 30, 35, 21, 20, 13, 27, 10, 24, 3, 26, 4, 8, 25, 11, 29, 5, 33, 31, 16, 1, 12]
+Tiempo de ejecución es: 6157
+Terminó en generación: 5000
+Fitness resultante: 312278424
+
+Ejecución: 23
+Genotipo resultante: [21, 31, 6, 15, 17, 35, 12, 8, 4, 1, 23, 14, 20, 29, 24, 7, 16, 30, 34, 27, 26, 19, 18, 2, 32, 28, 9, 3, 10, 22, 25, 11, 5, 13, 33]
+Tiempo de ejecución es: 6123
+Terminó en generación: 5000
+Fitness resultante: 307050274
+
+Ejecución: 24
+Genotipo resultante: [33, 2, 11, 29, 18, 24, 1, 25, 9, 8, 32, 34, 22, 5, 3, 10, 26, 12, 13, 27, 15, 4, 20, 28, 23, 19, 35, 21, 7, 31, 16, 6, 17, 30, 14]
+Tiempo de ejecución es: 5755
+Terminó en generación: 5000
+Fitness resultante: 297269746
+
+Ejecución: 25
+Genotipo resultante: [29, 14, 6, 15, 20, 35, 28, 8, 1, 31, 16, 17, 24, 4, 21, 7, 23, 12, 34, 27, 32, 33, 19, 22, 3, 30, 18, 11, 5, 10, 2, 9, 25, 13, 26]
+Tiempo de ejecución es: 5864
+Terminó en generación: 5000
+Fitness resultante: 306078720
+
+Ejecución: 26
+Genotipo resultante: [17, 20, 2, 33, 3, 5, 11, 10, 14, 18, 19, 1, 22, 12, 32, 9, 30, 8, 13, 27, 4, 28, 29, 7, 35, 24, 6, 31, 21, 25, 26, 23, 34, 15, 16]
+Tiempo de ejecución es: 5717
+Terminó en generación: 5000
+Fitness resultante: 287408815
+
+Ejecución: 27
+Genotipo resultante: [32, 11, 19, 20, 14, 17, 8, 5, 10, 18, 9, 24, 1, 3, 22, 2, 12, 30, 34, 27, 21, 35, 33, 31, 23, 26, 4, 28, 7, 25, 13, 6, 29, 15, 16]
+Tiempo de ejecución es: 5795
+Terminó en generación: 5000
+Fitness resultante: 286898881
+
+Ejecución: 28
+Genotipo resultante: [20, 10, 14, 19, 18, 17, 30, 9, 32, 3, 12, 22, 8, 11, 5, 1, 2, 24, 34, 27, 23, 13, 4, 7, 35, 29, 6, 28, 16, 31, 21, 15, 33, 26, 25]
+Tiempo de ejecución es: 5757
+Terminó en generación: 5000
+Fitness resultante: 288362671
+
+Ejecución: 29
+Genotipo resultante: [32, 11, 20, 17, 8, 19, 5, 1, 10, 18, 34, 15, 12, 3, 22, 2, 14, 16, 9, 27, 13, 35, 30, 4, 25, 28, 31, 21, 6, 23, 33, 7, 26, 29, 24]
+Tiempo de ejecución es: 5714
+Terminó en generación: 5000
+Fitness resultante: 290823033
+
+Ejecución: 30
+Genotipo resultante: [32, 10, 35, 23, 11, 6, 4, 14, 2, 22, 28, 3, 17, 19, 18, 7, 30, 15, 9, 27, 13, 24, 26, 33, 12, 20, 5, 31, 29, 25, 21, 1, 8, 16, 34]
+Tiempo de ejecución es: 5758
+Terminó en generación: 5000
+Fitness resultante: 316678855
+
+N=300, muta=10
+
+3
+
+Ejecución: 1
+Genotipo resultante: [17, 7, 1, 34, 15, 19, 8, 28, 12, 16, 14, 20, 23, 6, 35, 2, 9, 30, 13, 27, 21, 22, 33, 29, 25, 5, 26, 11, 4, 10, 24, 31, 18, 3, 32]
+Tiempo de ejecución es: 967
+Terminó en generación: 1000
+Fitness resultante: 312469311
+
+Ejecución: 2
+Genotipo resultante: [14, 29, 34, 17, 3, 20, 18, 22, 1, 16, 12, 24, 32, 8, 10, 2, 19, 11, 27, 15, 7, 30, 25, 35, 6, 26, 13, 28, 21, 31, 4, 23, 33, 9, 5]
+Tiempo de ejecución es: 980
+Terminó en generación: 1000
+Fitness resultante: 298429699
+
+Ejecución: 3
+Genotipo resultante: [25, 11, 31, 4, 5, 33, 18, 12, 26, 29, 22, 10, 20, 24, 3, 27, 32, 8, 1, 13, 6, 34, 16, 7, 15, 19, 30, 23, 2, 28, 35, 9, 14, 21, 17]
+Tiempo de ejecución es: 979
+Terminó en generación: 1000
+Fitness resultante: 319927348
+
+Ejecución: 4
+Genotipo resultante: [7, 15, 12, 27, 26, 17, 19, 1, 16, 25, 6, 4, 29, 35, 31, 20, 14, 28, 21, 23, 10, 18, 22, 2, 3, 11, 9, 8, 5, 32, 34, 30, 24, 13, 33]
+Tiempo de ejecución es: 972
+Terminó en generación: 1000
+Fitness resultante: 340009929
+
+Ejecución: 5
+Genotipo resultante: [6, 23, 2, 15, 10, 34, 3, 8, 35, 19, 16, 28, 21, 7, 18, 30, 22, 24, 9, 27, 20, 31, 11, 5, 4, 17, 32, 29, 13, 25, 26, 33, 14, 1, 12]
+Tiempo de ejecución es: 1007
+Terminó en generación: 1000
+Fitness resultante: 327523166
+
+Ejecución: 6
+Genotipo resultante: [35, 16, 28, 33, 25, 7, 8, 26, 15, 31, 21, 29, 24, 23, 4, 6, 5, 34, 13, 27, 10, 18, 9, 3, 30, 2, 32, 19, 14, 22, 11, 1, 20, 17, 12]
+Tiempo de ejecución es: 954
+Terminó en generación: 1000
+Fitness resultante: 323850409
+
+Ejecución: 7
+Genotipo resultante: [21, 7, 17, 12, 30, 20, 11, 22, 6, 31, 14, 23, 18, 35, 4, 28, 19, 10, 32, 27, 13, 1, 24, 34, 9, 3, 2, 33, 16, 8, 5, 29, 26, 15, 25]
+Tiempo de ejecución es: 999
+Terminó en generación: 1000
+Fitness resultante: 345078422
+
+Ejecución: 8
+Genotipo resultante: [27, 11, 10, 21, 3, 29, 4, 5, 24, 18, 26, 32, 8, 22, 34, 25, 31, 2, 33, 13, 9, 28, 19, 16, 1, 30, 14, 17, 35, 12, 20, 15, 23, 7, 6]
+Tiempo de ejecución es: 966
+Terminó en generación: 1000
+Fitness resultante: 310585928
+
+Ejecución: 9
+Genotipo resultante: [1, 12, 2, 26, 19, 25, 21, 29, 14, 34, 5, 28, 31, 17, 8, 9, 33, 20, 13, 27, 4, 6, 16, 22, 18, 10, 3, 11, 35, 24, 32, 7, 23, 15, 30]
+Tiempo de ejecución es: 961
+Terminó en generación: 1000
+Fitness resultante: 329156087
+
+Ejecución: 10
+Genotipo resultante: [18, 3, 9, 8, 29, 33, 19, 30, 10, 24, 34, 26, 32, 22, 11, 5, 2, 25, 27, 13, 7, 31, 17, 6, 15, 14, 35, 1, 4, 12, 16, 20, 23, 21, 28]
+Tiempo de ejecución es: 974
+Terminó en generación: 1000
+Fitness resultante: 304438804
+
+Ejecución: 11
+Genotipo resultante: [31, 26, 10, 33, 17, 20, 14, 12, 4, 3, 19, 22, 1, 11, 25, 32, 5, 18, 13, 27, 21, 16, 30, 2, 8, 15, 34, 23, 6, 24, 9, 7, 29, 35, 28]
+Tiempo de ejecución es: 1110
+Terminó en generación: 1000
+Fitness resultante: 307834995
+
+Ejecución: 12
+Genotipo resultante: [29, 10, 8, 1, 31, 5, 4, 22, 25, 11, 24, 26, 18, 33, 3, 34, 12, 32, 16, 27, 9, 28, 20, 19, 14, 21, 17, 2, 30, 13, 15, 23, 35, 7, 6]
+Tiempo de ejecución es: 970
+Terminó en generación: 1000
+Fitness resultante: 317295767
+
+Ejecución: 13
+Genotipo resultante: [31, 14, 26, 3, 12, 18, 17, 10, 25, 5, 22, 1, 30, 4, 11, 29, 24, 33, 9, 27, 34, 16, 20, 2, 35, 8, 23, 28, 7, 19, 21, 6, 13, 15, 32]
+Tiempo de ejecución es: 980
+Terminó en generación: 1000
+Fitness resultante: 297677607
+
+Ejecución: 14
+Genotipo resultante: [29, 24, 22, 6, 17, 7, 26, 30, 1, 31, 18, 12, 16, 25, 15, 3, 35, 14, 4, 27, 34, 32, 11, 33, 10, 21, 13, 5, 19, 23, 8, 2, 20, 9, 28]
+Tiempo de ejecución es: 957
+Terminó en generación: 1000
+Fitness resultante: 335448024
+
+Ejecución: 15
+Genotipo resultante: [12, 14, 15, 10, 5, 16, 8, 19, 1, 17, 20, 22, 2, 3, 18, 32, 11, 34, 24, 29, 21, 26, 6, 28, 13, 33, 35, 23, 25, 7, 9, 31, 30, 27, 4]
+Tiempo de ejecución es: 947
+Terminó en generación: 1000
+Fitness resultante: 318654988
+
+Ejecución: 16
+Genotipo resultante: [35, 16, 22, 34, 11, 18, 10, 2, 6, 24, 30, 15, 32, 7, 29, 3, 8, 23, 9, 27, 20, 26, 14, 12, 21, 28, 1, 19, 25, 17, 4, 31, 33, 13, 5]
+Tiempo de ejecución es: 982
+Terminó en generación: 1000
+Fitness resultante: 311428844
+
+Ejecución: 17
+Genotipo resultante: [29, 25, 3, 16, 2, 18, 21, 8, 24, 10, 32, 31, 19, 26, 11, 22, 34, 4, 27, 15, 9, 17, 30, 6, 35, 23, 7, 5, 20, 33, 13, 12, 14, 1, 28]
+Tiempo de ejecución es: 961
+Terminó en generación: 1000
+Fitness resultante: 318368637
+
+Ejecución: 18
+Genotipo resultante: [6, 35, 29, 16, 21, 8, 31, 22, 7, 26, 15, 30, 3, 25, 23, 24, 1, 18, 27, 34, 2, 28, 14, 19, 11, 12, 10, 17, 32, 20, 9, 4, 33, 13, 5]
+Tiempo de ejecución es: 1006
+Terminó en generación: 1000
+Fitness resultante: 327382063
+
+Ejecución: 19
+Genotipo resultante: [11, 10, 22, 4, 20, 25, 17, 18, 3, 5, 24, 29, 12, 32, 33, 26, 31, 19, 13, 27, 28, 8, 15, 35, 7, 23, 6, 34, 30, 21, 16, 9, 2, 1, 14]
+Tiempo de ejecución es: 976
+Terminó en generación: 1000
+Fitness resultante: 308551366
+
+Ejecución: 20
+Genotipo resultante: [18, 30, 34, 24, 17, 22, 20, 23, 3, 1, 15, 14, 8, 7, 6, 29, 35, 12, 27, 16, 21, 31, 26, 33, 9, 25, 13, 2, 4, 19, 28, 5, 32, 10, 11]
+Tiempo de ejecución es: 1059
+Terminó en generación: 1000
+Fitness resultante: 331735556
+
+Ejecución: 21
+Genotipo resultante: [5, 12, 22, 18, 20, 3, 19, 29, 14, 33, 27, 17, 24, 1, 11, 10, 8, 13, 25, 26, 35, 21, 15, 6, 23, 34, 7, 30, 9, 16, 28, 2, 32, 4, 31]
+Tiempo de ejecución es: 965
+Terminó en generación: 1000
+Fitness resultante: 330629498
+
+Ejecución: 22
+Genotipo resultante: [29, 21, 6, 12, 23, 35, 19, 20, 31, 15, 16, 4, 30, 25, 26, 7, 17, 28, 1, 14, 9, 11, 8, 33, 3, 10, 5, 34, 18, 2, 13, 32, 22, 27, 24]
+Tiempo de ejecución es: 961
+Terminó en generación: 1000
+Fitness resultante: 316364034
+
+Ejecución: 23
+Genotipo resultante: [1, 29, 34, 3, 26, 10, 6, 35, 14, 24, 16, 30, 11, 18, 23, 8, 22, 7, 27, 15, 32, 12, 21, 2, 33, 25, 13, 19, 5, 28, 20, 9, 17, 31, 4]
+Tiempo de ejecución es: 969
+Terminó en generación: 1000
+Fitness resultante: 336500533
+
+Ejecución: 24
+Genotipo resultante: [26, 3, 2, 9, 1, 5, 18, 22, 29, 11, 25, 10, 33, 8, 24, 4, 31, 12, 27, 34, 7, 20, 16, 13, 28, 21, 35, 6, 17, 23, 15, 19, 30, 14, 32]
+Tiempo de ejecución es: 996
+Terminó en generación: 1000
+Fitness resultante: 310812248
+
+Ejecución: 25
+Genotipo resultante: [19, 24, 1, 8, 22, 2, 5, 12, 10, 20, 17, 32, 3, 18, 11, 14, 34, 29, 16, 27, 21, 4, 30, 13, 28, 26, 33, 9, 25, 15, 23, 31, 7, 35, 6]
+Tiempo de ejecución es: 965
+Terminó en generación: 1000
+Fitness resultante: 310107501
+
+Ejecución: 26
+Genotipo resultante: [2, 19, 5, 3, 23, 32, 30, 18, 9, 10, 34, 21, 22, 28, 8, 33, 11, 26, 27, 13, 29, 17, 25, 31, 14, 35, 4, 6, 12, 7, 24, 1, 15, 16, 20]
+Tiempo de ejecución es: 926
+Terminó en generación: 1000
+Fitness resultante: 312710424
+
+Ejecución: 27
+Genotipo resultante: [33, 24, 11, 26, 8, 25, 21, 28, 5, 30, 4, 6, 23, 7, 29, 31, 10, 35, 9, 13, 20, 15, 1, 2, 34, 14, 32, 17, 18, 12, 19, 16, 22, 27, 3]
+Tiempo de ejecución es: 951
+Terminó en generación: 1000
+Fitness resultante: 340645759
+
+Ejecución: 28
+Genotipo resultante: [20, 14, 34, 21, 15, 5, 28, 8, 17, 1, 2, 30, 16, 19, 12, 9, 33, 23, 32, 13, 27, 11, 3, 29, 24, 31, 26, 22, 10, 18, 25, 7, 35, 4, 6]
+Tiempo de ejecución es: 977
+Terminó en generación: 1000
+Fitness resultante: 330491687
+
+Ejecución: 29
+Genotipo resultante: [35, 9, 7, 33, 28, 30, 3, 8, 5, 1, 23, 15, 18, 16, 21, 6, 14, 22, 27, 13, 2, 34, 24, 20, 19, 11, 17, 12, 29, 26, 32, 10, 4, 25, 31]
+Tiempo de ejecución es: 961
+Terminó en generación: 1000
+Fitness resultante: 335210342
+
+Ejecución: 30
+Genotipo resultante: [16, 17, 6, 35, 1, 7, 8, 21, 20, 34, 15, 29, 23, 12, 28, 31, 14, 24, 4, 27, 25, 26, 13, 3, 9, 30, 5, 22, 11, 18, 33, 10, 19, 32, 2]
+Tiempo de ejecución es: 959
+Terminó en generación: 1000
+Fitness resultante: 320299913
+
+N=300, muta=40
+
+Ejecución: 1
+Genotipo resultante: [25, 33, 34, 19, 11, 2, 8, 29, 13, 10, 31, 5, 24, 26, 4, 21, 28, 32, 9, 27, 16, 17, 23, 6, 30, 12, 7, 35, 1, 20, 15, 14, 18, 3, 22]
+Tiempo de ejecución es: 2865
+Terminó en generación: 2000
+Fitness resultante: 315699859
+
+Ejecución: 2
+Genotipo resultante: [4, 6, 25, 24, 32, 26, 18, 22, 7, 11, 21, 23, 3, 35, 28, 31, 29, 16, 15, 27, 34, 12, 8, 2, 13, 30, 9, 19, 5, 20, 10, 33, 17, 1, 14]
+Tiempo de ejecución es: 2696
+Terminó en generación: 2000
+Fitness resultante: 302763028
+
+Ejecución: 3
+Genotipo resultante: [14, 12, 30, 32, 8, 10, 21, 28, 1, 2, 9, 20, 23, 17, 19, 5, 11, 34, 33, 13, 6, 31, 3, 35, 16, 4, 15, 22, 26, 18, 7, 25, 24, 27, 29]
+Tiempo de ejecución es: 2429
+Terminó en generación: 2000
+Fitness resultante: 325039751
+
+Ejecución: 4
+Genotipo resultante: [32, 24, 22, 17, 5, 12, 8, 4, 29, 25, 3, 10, 31, 11, 26, 18, 20, 33, 14, 1, 15, 21, 30, 35, 7, 19, 6, 23, 13, 28, 16, 27, 34, 9, 2]
+Tiempo de ejecución es: 2475
+Terminó en generación: 2000
+Fitness resultante: 306352726
+
+Ejecución: 5
+Genotipo resultante: [32, 18, 19, 12, 24, 17, 5, 1, 3, 11, 20, 15, 8, 22, 10, 2, 14, 16, 34, 27, 23, 13, 30, 6, 21, 33, 7, 35, 31, 28, 9, 4, 25, 29, 26]
+Tiempo de ejecución es: 2645
+Terminó en generación: 2000
+Fitness resultante: 290616746
+
+Ejecución: 6
+Genotipo resultante: [4, 12, 7, 15, 25, 35, 24, 29, 20, 19, 16, 10, 26, 17, 31, 6, 28, 11, 23, 21, 13, 18, 32, 33, 9, 3, 5, 2, 30, 8, 34, 27, 22, 14, 1]
+Tiempo de ejecución es: 2554
+Terminó en generación: 2000
+Fitness resultante: 330917461
+
+Ejecución: 7
+Genotipo resultante: [14, 12, 5, 18, 10, 30, 32, 22, 1, 19, 9, 20, 11, 17, 2, 33, 3, 8, 13, 27, 4, 16, 24, 7, 23, 34, 6, 21, 15, 29, 31, 35, 28, 26, 25]
+Tiempo de ejecución es: 2461
+Terminó en generación: 2000
+Fitness resultante: 289393233
+
+Ejecución: 8
+Genotipo resultante: [4, 25, 12, 17, 21, 14, 8, 19, 26, 13, 5, 29, 34, 31, 33, 1, 20, 28, 2, 9, 7, 3, 32, 6, 15, 24, 35, 16, 22, 23, 30, 18, 11, 27, 10]
+Tiempo de ejecución es: 2611
+Terminó en generación: 2000
+Fitness resultante: 318845792
+
+Ejecución: 9
+Genotipo resultante: [4, 6, 25, 29, 11, 26, 8, 34, 7, 9, 31, 30, 5, 23, 24, 21, 33, 10, 13, 27, 32, 20, 22, 28, 15, 3, 19, 35, 14, 18, 2, 17, 12, 16, 1]
+Tiempo de ejecución es: 2401
+Terminó en generación: 2000
+Fitness resultante: 335097919
+
+Ejecución: 10
+Genotipo resultante: [7, 35, 30, 3, 8, 5, 1, 22, 6, 16, 9, 2, 14, 23, 15, 33, 18, 34, 13, 27, 29, 4, 11, 12, 26, 10, 20, 17, 31, 32, 24, 25, 19, 21, 28]
+Tiempo de ejecución es: 2323
+Terminó en generación: 2000
+Fitness resultante: 319685822
+
+Ejecución: 11
+Genotipo resultante: [32, 22, 19, 17, 11, 14, 25, 5, 3, 12, 10, 1, 33, 18, 20, 2, 30, 26, 9, 27, 7, 28, 34, 35, 16, 8, 6, 15, 21, 31, 4, 23, 24, 13, 29]
+Tiempo de ejecución es: 2436
+Terminó en generación: 2000
+Fitness resultante: 301848081
+
+Ejecución: 12
+Genotipo resultante: [35, 7, 28, 25, 19, 31, 12, 29, 6, 14, 23, 17, 1, 4, 30, 21, 26, 20, 33, 13, 27, 8, 5, 11, 32, 24, 10, 3, 2, 18, 22, 34, 16, 9, 15]
+Tiempo de ejecución es: 2420
+Terminó en generación: 2000
+Fitness resultante: 306276390
+
+Ejecución: 13
+Genotipo resultante: [9, 34, 25, 5, 10, 33, 24, 29, 2, 3, 22, 8, 11, 32, 18, 26, 30, 19, 13, 27, 14, 35, 20, 31, 21, 28, 4, 17, 6, 12, 1, 7, 23, 15, 16]
+Tiempo de ejecución es: 2412
+Terminó en generación: 2000
+Fitness resultante: 295922011
+
+Ejecución: 14
+Genotipo resultante: [24, 14, 31, 26, 10, 25, 5, 18, 1, 20, 29, 17, 3, 12, 11, 4, 22, 19, 32, 27, 34, 28, 8, 7, 35, 9, 6, 15, 21, 16, 2, 23, 30, 13, 33]
+Tiempo de ejecución es: 2441
+Terminó en generación: 2000
+Fitness resultante: 294363438
+
+Ejecución: 15
+Genotipo resultante: [2, 14, 18, 11, 12, 22, 30, 24, 34, 19, 32, 17, 8, 1, 10, 3, 5, 20, 9, 27, 25, 35, 16, 31, 13, 15, 4, 33, 6, 29, 26, 7, 28, 21, 23]
+Tiempo de ejecución es: 2355
+Terminó en generación: 2000
+Fitness resultante: 288939929
+
+Ejecución: 16
+Genotipo resultante: [10, 2, 16, 22, 24, 3, 20, 33, 34, 8, 32, 9, 5, 19, 11, 15, 18, 29, 13, 27, 1, 21, 30, 7, 35, 23, 6, 14, 31, 17, 12, 4, 28, 26, 25]
+Tiempo de ejecución es: 2396
+Terminó en generación: 2000
+Fitness resultante: 305644530
+
+Ejecución: 17
+Genotipo resultante: [24, 11, 25, 31, 5, 33, 2, 34, 10, 18, 29, 32, 8, 3, 22, 26, 4, 9, 13, 27, 35, 16, 21, 6, 15, 19, 7, 23, 17, 30, 28, 14, 20, 1, 12]
+Tiempo de ejecución es: 2404
+Terminó en generación: 2000
+Fitness resultante: 285480050
+
+Ejecución: 18
+Genotipo resultante: [2, 34, 19, 23, 11, 21, 12, 20, 9, 32, 10, 3, 17, 8, 5, 28, 33, 24, 13, 27, 4, 18, 29, 6, 35, 22, 7, 25, 14, 26, 31, 30, 16, 1, 15]
+Tiempo de ejecución es: 2436
+Terminó en generación: 2000
+Fitness resultante: 328356032
+
+Ejecución: 19
+Genotipo resultante: [35, 7, 25, 29, 33, 26, 11, 34, 6, 23, 4, 13, 8, 28, 21, 31, 24, 10, 15, 16, 1, 19, 22, 17, 12, 3, 14, 30, 32, 18, 27, 20, 5, 9, 2]
+Tiempo de ejecución es: 2368
+Terminó en generación: 2000
+Fitness resultante: 315725852
+
+Ejecución: 20
+Genotipo resultante: [13, 5, 6, 23, 12, 35, 19, 28, 33, 1, 30, 31, 17, 4, 14, 7, 21, 20, 9, 27, 32, 24, 18, 11, 34, 8, 10, 3, 16, 22, 2, 15, 25, 29, 26]
+Tiempo de ejecución es: 2360
+Terminó en generación: 2000
+Fitness resultante: 307122657
+
+Ejecución: 21
+Genotipo resultante: [2, 5, 23, 10, 15, 19, 16, 6, 9, 8, 21, 30, 7, 33, 34, 28, 35, 3, 13, 27, 4, 14, 22, 31, 26, 18, 25, 24, 1, 11, 32, 29, 17, 20, 12]
+Tiempo de ejecución es: 2349
+Terminó en generación: 2000
+Fitness resultante: 309291355
+
+Ejecución: 22
+Genotipo resultante: [3, 10, 5, 2, 12, 30, 17, 8, 32, 14, 18, 1, 19, 11, 22, 9, 34, 20, 33, 13, 27, 29, 25, 7, 23, 26, 6, 21, 28, 31, 4, 35, 24, 15, 16]
+Tiempo de ejecución es: 2410
+Terminó en generación: 2000
+Fitness resultante: 293512480
+
+Ejecución: 23
+Genotipo resultante: [10, 2, 18, 11, 1, 3, 29, 24, 34, 8, 32, 17, 12, 19, 20, 22, 16, 14, 15, 27, 13, 35, 5, 33, 26, 30, 25, 31, 6, 4, 9, 7, 28, 21, 23]
+Tiempo de ejecución es: 2409
+Terminó en generación: 2000
+Fitness resultante: 293360441
+
+Ejecución: 24
+Genotipo resultante: [32, 2, 6, 16, 3, 15, 11, 22, 28, 34, 35, 10, 18, 19, 8, 7, 23, 24, 9, 27, 1, 31, 30, 20, 5, 21, 12, 17, 33, 4, 14, 13, 29, 26, 25]
+Tiempo de ejecución es: 2417
+Terminó en generación: 2000
+Fitness resultante: 300249665
+
+Ejecución: 25
+Genotipo resultante: [9, 19, 11, 3, 7, 5, 23, 8, 2, 30, 10, 35, 24, 28, 18, 32, 22, 6, 33, 13, 25, 17, 20, 31, 29, 34, 4, 21, 14, 12, 26, 1, 16, 27, 15]
+Tiempo de ejecución es: 2394
+Terminó en generación: 2000
+Fitness resultante: 312910627
+
+Ejecución: 26
+Genotipo resultante: [29, 10, 25, 4, 8, 31, 12, 22, 24, 3, 26, 34, 18, 11, 5, 33, 21, 1, 13, 27, 23, 30, 14, 35, 7, 20, 6, 19, 16, 17, 28, 15, 32, 9, 2]
+Tiempo de ejecución es: 2365
+Terminó en generación: 2000
+Fitness resultante: 293538581
+
+Ejecución: 27
+Genotipo resultante: [23, 6, 31, 24, 32, 29, 18, 11, 7, 26, 21, 28, 22, 35, 25, 4, 16, 3, 15, 27, 34, 9, 10, 1, 17, 30, 14, 2, 12, 19, 8, 20, 5, 13, 33]
+Tiempo de ejecución es: 2335
+Terminó en generación: 2000
+Fitness resultante: 300642275
+
+Ejecución: 28
+Genotipo resultante: [26, 10, 31, 33, 12, 21, 17, 28, 32, 3, 25, 18, 19, 11, 22, 4, 5, 20, 13, 27, 16, 2, 8, 6, 23, 24, 7, 35, 9, 34, 15, 30, 29, 14, 1]
+Tiempo de ejecución es: 2339
+Terminó en generación: 2000
+Fitness resultante: 303430258
+
+Ejecución: 29
+Genotipo resultante: [4, 25, 17, 20, 22, 12, 3, 32, 31, 24, 1, 26, 18, 29, 11, 14, 5, 10, 33, 13, 9, 2, 21, 7, 35, 19, 6, 23, 16, 28, 30, 15, 8, 27, 34]
+Tiempo de ejecución es: 2411
+Terminó en generación: 2000
+Fitness resultante: 293623409
+
+Ejecución: 30
+Genotipo resultante: [11, 24, 3, 2, 4, 18, 28, 21, 10, 25, 32, 29, 23, 26, 31, 22, 8, 19, 34, 27, 13, 12, 30, 7, 35, 20, 6, 9, 16, 5, 33, 15, 17, 1, 14]
+Tiempo de ejecución es: 2447
+Terminó en generación: 2000
+Fitness resultante: 309868362
+
+N=300, muta=70
+
+
+Ejecución: 1
+Genotipo resultante: [19, 14, 32, 3, 5, 11, 9, 8, 1, 20, 2, 12, 24, 17, 18, 10, 22, 30, 34, 27, 16, 25, 28, 6, 21, 29, 7, 35, 31, 23, 15, 4, 26, 13, 33]
+Tiempo de ejecución es: 2955
+Terminó en generación: 2000
+Fitness resultante: 285973105
+
+Ejecución: 2
+Genotipo resultante: [9, 26, 5, 11, 8, 10, 24, 19, 2, 18, 3, 34, 30, 25, 22, 33, 32, 29, 13, 27, 35, 16, 31, 6, 4, 15, 7, 23, 17, 21, 28, 14, 20, 1, 12]
+Tiempo de ejecución es: 3138
+Terminó en generación: 2000
+Fitness resultante: 295421099
+
+Ejecución: 3
+Genotipo resultante: [30, 1, 35, 28, 2, 23, 32, 34, 14, 20, 7, 12, 8, 17, 19, 6, 21, 9, 16, 15, 27, 4, 18, 11, 26, 29, 10, 22, 31, 3, 24, 25, 5, 13, 33]
+Tiempo de ejecución es: 2755
+Terminó en generación: 2000
+Fitness resultante: 300738555
+
+Ejecución: 4
+Genotipo resultante: [29, 4, 11, 8, 5, 34, 22, 32, 1, 26, 24, 12, 3, 31, 25, 10, 33, 18, 13, 27, 23, 17, 2, 6, 30, 19, 7, 35, 14, 28, 21, 9, 20, 15, 16]
+Tiempo de ejecución es: 2893
+Terminó en generación: 2000
+Fitness resultante: 295402489
+
+Ejecución: 5
+Genotipo resultante: [16, 7, 12, 14, 28, 1, 8, 2, 15, 23, 20, 35, 34, 6, 19, 17, 30, 21, 9, 27, 32, 26, 18, 11, 33, 24, 10, 3, 25, 22, 5, 13, 29, 4, 31]
+Tiempo de ejecución es: 2790
+Terminó en generación: 2000
+Fitness resultante: 294793926
+
+Ejecución: 6
+Genotipo resultante: [15, 14, 18, 2, 10, 32, 5, 24, 16, 12, 3, 17, 11, 1, 20, 22, 8, 19, 34, 27, 9, 31, 23, 35, 21, 4, 28, 7, 33, 6, 30, 13, 29, 26, 25]
+Tiempo de ejecución es: 2730
+Terminó en generación: 2000
+Fitness resultante: 293678136
+
+Ejecución: 7
+Genotipo resultante: [6, 35, 24, 26, 18, 29, 3, 11, 7, 15, 23, 32, 22, 28, 16, 21, 25, 30, 31, 4, 27, 8, 14, 33, 9, 17, 13, 5, 34, 12, 1, 2, 20, 10, 19]
+Tiempo de ejecución es: 2754
+Terminó en generación: 2000
+Fitness resultante: 315109582
+
+Ejecución: 8
+Genotipo resultante: [10, 17, 34, 33, 22, 5, 25, 3, 19, 11, 2, 12, 18, 20, 32, 9, 8, 26, 13, 27, 16, 29, 30, 35, 7, 24, 6, 23, 14, 28, 15, 1, 21, 4, 31]
+Tiempo de ejecución es: 2758
+Terminó en generación: 2000
+Fitness resultante: 302199659
+
+Ejecución: 9
+Genotipo resultante: [18, 22, 2, 30, 25, 33, 1, 24, 3, 10, 5, 26, 29, 32, 11, 9, 8, 14, 34, 27, 15, 28, 12, 7, 35, 19, 6, 20, 21, 17, 16, 23, 31, 13, 4]
+Tiempo de ejecución es: 2808
+Terminó en generación: 2000
+Fitness resultante: 301179243
+
+Ejecución: 10
+Genotipo resultante: [35, 7, 19, 12, 30, 20, 29, 31, 15, 16, 28, 9, 4, 6, 23, 17, 21, 24, 1, 14, 13, 32, 18, 33, 3, 8, 5, 26, 11, 22, 25, 10, 2, 27, 34]
+Tiempo de ejecución es: 2774
+Terminó en generación: 2000
+Fitness resultante: 319417514
+
+Ejecución: 11
+Genotipo resultante: [23, 31, 7, 16, 24, 15, 18, 30, 21, 29, 35, 26, 22, 25, 28, 6, 33, 3, 13, 27, 9, 12, 8, 2, 14, 5, 1, 19, 20, 10, 34, 17, 11, 4, 32]
+Tiempo de ejecución es: 2746
+Terminó en generación: 2000
+Fitness resultante: 309715040
+
+Ejecución: 12
+Genotipo resultante: [16, 26, 6, 23, 8, 35, 3, 22, 29, 33, 15, 24, 18, 25, 30, 7, 28, 34, 13, 27, 14, 32, 5, 17, 10, 11, 19, 20, 9, 12, 1, 2, 4, 21, 31]
+Tiempo de ejecución es: 2809
+Terminó en generación: 2000
+Fitness resultante: 316740905
+
+Ejecución: 13
+Genotipo resultante: [23, 28, 35, 2, 20, 9, 12, 8, 21, 17, 7, 14, 1, 30, 19, 6, 34, 32, 16, 15, 27, 3, 4, 25, 22, 18, 26, 24, 10, 31, 29, 11, 5, 13, 33]
+Tiempo de ejecución es: 2799
+Terminó en generación: 2000
+Fitness resultante: 302131304
+
+Ejecución: 14
+Genotipo resultante: [16, 6, 2, 33, 21, 8, 22, 3, 7, 30, 9, 23, 18, 35, 15, 34, 5, 28, 13, 27, 29, 20, 32, 26, 31, 19, 25, 10, 12, 11, 24, 4, 17, 1, 14]
+Tiempo de ejecución es: 2839
+Terminó en generación: 2000
+Fitness resultante: 300074121
+
+Ejecución: 15
+Genotipo resultante: [2, 19, 17, 20, 30, 12, 15, 16, 9, 18, 14, 10, 22, 5, 3, 1, 8, 33, 34, 27, 21, 35, 24, 31, 23, 11, 4, 25, 7, 26, 29, 6, 32, 13, 28]
+Tiempo de ejecución es: 2841
+Terminó en generación: 2000
+Fitness resultante: 297822205
+
+Ejecución: 16
+Genotipo resultante: [17, 4, 12, 16, 22, 29, 3, 8, 14, 21, 1, 23, 18, 31, 24, 20, 15, 30, 34, 27, 9, 32, 5, 7, 35, 11, 6, 19, 13, 10, 2, 28, 33, 26, 25]
+Tiempo de ejecución es: 2849
+Terminó en generación: 2000
+Fitness resultante: 327968190
+
+Ejecución: 17
+Genotipo resultante: [32, 11, 29, 8, 25, 34, 31, 5, 10, 22, 24, 26, 12, 3, 18, 2, 1, 4, 9, 27, 13, 28, 17, 7, 35, 19, 6, 30, 21, 14, 33, 23, 20, 15, 16]
+Tiempo de ejecución es: 2843
+Terminó en generación: 2000
+Fitness resultante: 298597987
+
+Ejecución: 18
+Genotipo resultante: [5, 25, 32, 22, 4, 3, 16, 8, 33, 29, 11, 31, 34, 26, 24, 10, 18, 15, 13, 27, 9, 35, 12, 1, 30, 20, 14, 17, 6, 19, 2, 7, 28, 21, 23]
+Tiempo de ejecución es: 2846
+Terminó en generación: 2000
+Fitness resultante: 295826714
+
+Ejecución: 19
+Genotipo resultante: [15, 34, 6, 21, 17, 23, 12, 14, 16, 19, 35, 8, 1, 2, 28, 7, 30, 20, 9, 27, 29, 32, 18, 25, 4, 3, 31, 26, 10, 22, 24, 11, 5, 13, 33]
+Tiempo de ejecución es: 2777
+Terminó en generación: 2000
+Fitness resultante: 294014716
+
+Ejecución: 20
+Genotipo resultante: [15, 34, 6, 28, 11, 23, 18, 32, 16, 10, 35, 24, 22, 8, 2, 7, 19, 3, 9, 27, 26, 5, 20, 25, 4, 30, 31, 12, 33, 17, 21, 13, 14, 29, 1]
+Tiempo de ejecución es: 2913
+Terminó en generación: 2000
+Fitness resultante: 303697524
+
+Ejecución: 21
+Genotipo resultante: [31, 25, 14, 12, 34, 17, 2, 5, 29, 11, 4, 10, 19, 26, 24, 1, 20, 8, 9, 27, 13, 35, 22, 21, 28, 3, 23, 30, 6, 18, 33, 7, 32, 16, 15]
+Tiempo de ejecución es: 2829
+Terminó en generación: 2000
+Fitness resultante: 312225530
+
+Ejecución: 22
+Genotipo resultante: [29, 15, 25, 11, 32, 4, 18, 22, 34, 8, 26, 2, 3, 16, 24, 31, 10, 20, 21, 27, 13, 6, 23, 17, 30, 35, 14, 19, 7, 28, 33, 9, 5, 1, 12]
+Tiempo de ejecución es: 2876
+Terminó en generación: 2000
+Fitness resultante: 311551944
+
+Ejecución: 23
+Genotipo resultante: [35, 6, 33, 31, 19, 21, 20, 5, 7, 17, 28, 14, 12, 23, 30, 13, 4, 1, 26, 25, 9, 18, 24, 2, 27, 10, 34, 32, 3, 11, 29, 22, 8, 15, 16]
+Tiempo de ejecución es: 2737
+Terminó en generación: 2000
+Fitness resultante: 315670831
+
+Ejecución: 24
+Genotipo resultante: [32, 22, 25, 19, 24, 33, 34, 2, 3, 9, 10, 18, 8, 11, 5, 26, 28, 29, 13, 27, 23, 12, 15, 6, 4, 16, 7, 35, 17, 31, 21, 20, 30, 1, 14]
+Tiempo de ejecución es: 2767
+Terminó en generación: 2000
+Fitness resultante: 299936865
+
+Ejecución: 25
+Genotipo resultante: [23, 4, 6, 15, 1, 28, 12, 19, 21, 17, 7, 30, 20, 31, 14, 35, 16, 29, 13, 27, 34, 11, 25, 2, 5, 24, 9, 8, 3, 26, 33, 10, 22, 32, 18]
+Tiempo de ejecución es: 2837
+Terminó en generación: 2000
+Fitness resultante: 308519800
+
+Ejecución: 26
+Genotipo resultante: [32, 11, 20, 14, 8, 17, 2, 22, 10, 3, 12, 24, 18, 5, 33, 1, 19, 34, 13, 27, 35, 4, 30, 7, 23, 9, 6, 28, 31, 16, 15, 21, 29, 26, 25]
+Tiempo de ejecución es: 2786
+Terminó en generación: 2000
+Fitness resultante: 288799117
+
+Ejecución: 27
+Genotipo resultante: [15, 34, 6, 28, 18, 35, 3, 19, 16, 32, 23, 8, 22, 21, 2, 7, 30, 20, 9, 27, 13, 12, 24, 5, 25, 29, 33, 26, 4, 11, 10, 31, 17, 1, 14]
+Tiempo de ejecución es: 2874
+Terminó en generación: 2000
+Fitness resultante: 300484414
+
+Ejecución: 28
+Genotipo resultante: [30, 6, 18, 15, 11, 22, 32, 8, 7, 9, 33, 23, 10, 35, 5, 3, 16, 24, 13, 27, 14, 21, 2, 17, 1, 28, 12, 20, 4, 19, 34, 31, 25, 29, 26]
+Tiempo de ejecución es: 2870
+Terminó en generación: 2000
+Fitness resultante: 305980287
+
+Ejecución: 29
+Genotipo resultante: [15, 6, 19, 30, 21, 17, 32, 18, 7, 23, 9, 16, 22, 35, 28, 2, 14, 20, 34, 27, 1, 5, 8, 29, 25, 3, 26, 24, 13, 11, 10, 33, 12, 4, 31]
+Tiempo de ejecución es: 2813
+Terminó en generación: 2000
+Fitness resultante: 310743785
+
+Ejecución: 30
+Genotipo resultante: [15, 6, 2, 20, 30, 19, 3, 8, 7, 23, 16, 21, 18, 35, 28, 34, 32, 22, 17, 14, 4, 5, 24, 31, 26, 11, 25, 29, 33, 12, 1, 13, 10, 27, 9]
+Tiempo de ejecución es: 2729
+Terminó en generación: 2000
+Fitness resultante: 322411760
+
+N=300, muta=100
+
+
+Ejecución: 1
+Genotipo resultante: [15, 29, 6, 30, 3, 23, 10, 14, 16, 22, 35, 32, 1, 24, 18, 7, 8, 11, 34, 27, 9, 28, 20, 4, 31, 12, 21, 19, 26, 17, 2, 25, 5, 13, 33]
+Tiempo de ejecución es: 3334
+Terminó en generación: 2000
+Fitness resultante: 315208928
+
+Ejecución: 2
+Genotipo resultante: [12, 32, 1, 26, 5, 29, 8, 22, 20, 3, 17, 10, 18, 11, 24, 14, 25, 33, 31, 4, 15, 30, 21, 35, 7, 19, 6, 23, 2, 28, 16, 9, 13, 27, 34]
+Tiempo de ejecución es: 4004
+Terminó en generación: 2000
+Fitness resultante: 305794010
+
+Ejecución: 3
+Genotipo resultante: [16, 6, 2, 33, 14, 8, 22, 3, 7, 30, 9, 23, 18, 35, 15, 34, 5, 1, 13, 27, 10, 11, 17, 26, 31, 12, 25, 21, 32, 28, 19, 4, 20, 29, 24]
+Tiempo de ejecución es: 3910
+Terminó en generación: 2000
+Fitness resultante: 319371606
+
+Ejecución: 4
+Genotipo resultante: [34, 2, 7, 35, 4, 6, 5, 28, 9, 30, 16, 31, 33, 21, 8, 15, 23, 25, 13, 27, 32, 17, 26, 11, 24, 19, 10, 22, 12, 18, 3, 20, 29, 1, 14]
+Tiempo de ejecución es: 3436
+Terminó en generación: 2000
+Fitness resultante: 318800167
+
+Ejecución: 5
+Genotipo resultante: [7, 6, 18, 33, 8, 3, 24, 10, 15, 26, 22, 16, 11, 35, 25, 30, 5, 23, 9, 27, 34, 21, 32, 14, 20, 13, 17, 19, 1, 28, 2, 12, 29, 4, 31]
+Tiempo de ejecución es: 3838
+Terminó en generación: 2000
+Fitness resultante: 313540018
+
+Ejecución: 6
+Genotipo resultante: [25, 31, 10, 34, 18, 33, 12, 1, 26, 3, 29, 22, 5, 4, 11, 24, 8, 32, 13, 27, 21, 30, 14, 28, 35, 2, 23, 19, 7, 17, 20, 6, 9, 15, 16]
+Tiempo de ejecución es: 4025
+Terminó en generación: 2000
+Fitness resultante: 293667788
+
+Ejecución: 7
+Genotipo resultante: [1, 15, 12, 2, 28, 19, 30, 8, 14, 6, 17, 35, 23, 16, 7, 20, 34, 21, 9, 27, 32, 24, 33, 3, 11, 13, 10, 22, 25, 18, 5, 26, 29, 4, 31]
+Tiempo de ejecución es: 3773
+Terminó en generación: 2000
+Fitness resultante: 296747795
+
+Ejecución: 8
+Genotipo resultante: [4, 25, 12, 20, 22, 17, 18, 32, 31, 11, 1, 26, 3, 29, 24, 14, 5, 10, 33, 13, 21, 34, 19, 7, 35, 8, 6, 23, 2, 28, 30, 9, 16, 27, 15]
+Tiempo de ejecución es: 3367
+Terminó en generación: 2000
+Fitness resultante: 294532250
+
+Ejecución: 9
+Genotipo resultante: [17, 1, 33, 19, 18, 2, 22, 11, 14, 32, 5, 20, 3, 12, 30, 9, 10, 8, 13, 27, 25, 35, 24, 31, 21, 23, 4, 29, 6, 28, 26, 7, 34, 16, 15]
+Tiempo de ejecución es: 3455
+Terminó en generación: 2000
+Fitness resultante: 284684950
+
+Ejecución: 10
+Genotipo resultante: [23, 6, 25, 29, 30, 26, 22, 1, 7, 15, 21, 16, 14, 35, 28, 31, 24, 18, 4, 27, 13, 34, 3, 5, 10, 8, 9, 32, 19, 11, 33, 2, 12, 20, 17]
+Tiempo de ejecución es: 3384
+Terminó en generación: 2000
+Fitness resultante: 314458914
+
+Ejecución: 11
+Genotipo resultante: [25, 33, 4, 11, 5, 24, 1, 8, 26, 18, 31, 13, 32, 22, 3, 29, 10, 12, 34, 27, 23, 30, 2, 6, 9, 19, 7, 35, 16, 28, 21, 15, 20, 14, 17]
+Tiempo de ejecución es: 4032
+Terminó en generación: 2000
+Fitness resultante: 294009596
+
+Ejecución: 12
+Genotipo resultante: [28, 6, 25, 4, 30, 31, 10, 32, 35, 24, 26, 23, 11, 7, 29, 21, 33, 19, 13, 27, 1, 15, 22, 12, 17, 8, 14, 3, 16, 18, 5, 20, 34, 9, 2]
+Tiempo de ejecución es: 4244
+Terminó en generación: 2000
+Fitness resultante: 320364267
+
+Ejecución: 13
+Genotipo resultante: [34, 21, 24, 10, 3, 11, 32, 22, 4, 8, 29, 2, 18, 31, 25, 16, 26, 20, 15, 27, 28, 1, 23, 19, 14, 12, 17, 7, 9, 6, 35, 30, 5, 13, 33]
+Tiempo de ejecución es: 4588
+Terminó en generación: 2000
+Fitness resultante: 308738898
+
+Ejecución: 14
+Genotipo resultante: [28, 6, 21, 34, 30, 33, 2, 29, 35, 25, 23, 4, 26, 7, 31, 13, 8, 9, 16, 15, 27, 12, 18, 11, 10, 5, 32, 22, 1, 3, 24, 20, 19, 14, 17]
+Tiempo de ejecución es: 3986
+Terminó en generación: 2000
+Fitness resultante: 318113357
+
+Ejecución: 15
+Genotipo resultante: [16, 14, 35, 23, 18, 7, 22, 33, 1, 12, 15, 8, 5, 17, 20, 6, 30, 3, 13, 27, 21, 11, 29, 31, 9, 24, 4, 25, 32, 26, 34, 2, 28, 10, 19]
+Tiempo de ejecución es: 4340
+Terminó en generación: 2000
+Fitness resultante: 315682001
+
+Ejecución: 16
+Genotipo resultante: [24, 11, 25, 29, 1, 26, 8, 5, 10, 18, 4, 32, 12, 3, 22, 31, 33, 20, 13, 27, 23, 34, 16, 6, 30, 15, 7, 35, 2, 28, 21, 9, 19, 14, 17]
+Tiempo de ejecución es: 4915
+Terminó en generación: 2000
+Fitness resultante: 290193561
+
+Ejecución: 17
+Genotipo resultante: [15, 1, 6, 18, 8, 30, 2, 3, 16, 24, 35, 29, 34, 14, 23, 7, 22, 32, 9, 27, 13, 17, 5, 31, 26, 11, 25, 21, 20, 4, 33, 12, 28, 10, 19]
+Tiempo de ejecución es: 4080
+Terminó en generación: 2000
+Fitness resultante: 316622250
+
+Ejecución: 18
+Genotipo resultante: [4, 14, 25, 24, 19, 26, 28, 22, 1, 10, 31, 20, 32, 17, 12, 29, 11, 21, 13, 27, 33, 23, 3, 2, 30, 18, 9, 34, 6, 8, 5, 7, 35, 15, 16]
+Tiempo de ejecución es: 4211
+Terminó en generación: 2000
+Fitness resultante: 310202379
+
+Ejecución: 19
+Genotipo resultante: [31, 26, 12, 20, 11, 17, 8, 33, 29, 10, 1, 24, 5, 25, 4, 14, 19, 34, 13, 27, 15, 22, 21, 35, 7, 3, 6, 23, 18, 28, 16, 30, 32, 9, 2]
+Tiempo de ejecución es: 3407
+Terminó en generación: 2000
+Fitness resultante: 309816449
+
+Ejecución: 20
+Genotipo resultante: [20, 22, 17, 28, 15, 19, 7, 35, 32, 30, 1, 3, 6, 18, 12, 14, 23, 16, 21, 27, 31, 5, 10, 25, 29, 8, 26, 24, 33, 11, 4, 13, 34, 9, 2]
+Tiempo de ejecución es: 3330
+Terminó en generación: 2000
+Fitness resultante: 314245497
+
+Ejecución: 21
+Genotipo resultante: [1, 17, 5, 30, 26, 9, 11, 22, 14, 25, 12, 29, 3, 4, 31, 33, 18, 24, 13, 27, 16, 8, 21, 6, 23, 19, 7, 35, 2, 28, 15, 34, 10, 32, 20]
+Tiempo de ejecución es: 3922
+Terminó en generación: 2000
+Fitness resultante: 291733174
+
+Ejecución: 22
+Genotipo resultante: [25, 31, 3, 18, 12, 22, 17, 14, 26, 24, 33, 29, 1, 4, 11, 5, 30, 10, 9, 27, 34, 35, 32, 16, 23, 19, 15, 8, 7, 20, 2, 6, 28, 13, 21]
+Tiempo de ejecución es: 3585
+Terminó en generación: 2000
+Fitness resultante: 290975826
+
+Ejecución: 23
+Genotipo resultante: [4, 25, 6, 23, 11, 35, 18, 32, 31, 24, 16, 26, 22, 29, 21, 7, 28, 3, 15, 27, 14, 5, 10, 17, 12, 8, 1, 20, 33, 19, 30, 13, 34, 9, 2]
+Tiempo de ejecución es: 3272
+Terminó en generación: 2000
+Fitness resultante: 300179326
+
+Ejecución: 24
+Genotipo resultante: [24, 4, 26, 11, 18, 5, 30, 3, 29, 1, 25, 14, 22, 31, 12, 33, 10, 17, 13, 27, 9, 23, 32, 7, 35, 20, 6, 28, 16, 19, 2, 15, 8, 21, 34]
+Tiempo de ejecución es: 3428
+Terminó en generación: 2000
+Fitness resultante: 291268296
+
+Ejecución: 25
+Genotipo resultante: [24, 2, 25, 4, 8, 31, 22, 5, 9, 10, 29, 32, 3, 34, 11, 26, 33, 18, 13, 27, 23, 16, 19, 6, 30, 15, 7, 35, 17, 28, 21, 14, 20, 1, 12]
+Tiempo de ejecución es: 3288
+Terminó en generación: 2000
+Fitness resultante: 286801401
+
+Ejecución: 26
+Genotipo resultante: [9, 19, 12, 4, 6, 20, 22, 18, 2, 11, 5, 7, 3, 10, 32, 17, 30, 35, 1, 14, 27, 23, 8, 29, 21, 15, 31, 34, 26, 16, 24, 25, 28, 13, 33]
+Tiempo de ejecución es: 3307
+Terminó en generación: 2000
+Fitness resultante: 334077889
+
+Ejecución: 27
+Genotipo resultante: [4, 6, 25, 16, 24, 29, 11, 18, 7, 28, 31, 23, 3, 35, 21, 26, 22, 32, 15, 27, 14, 34, 30, 17, 10, 8, 19, 12, 9, 20, 1, 2, 5, 13, 33]
+Tiempo de ejecución es: 3387
+Terminó en generación: 2000
+Fitness resultante: 300590426
+
+Ejecución: 28
+Genotipo resultante: [15, 8, 6, 28, 11, 23, 30, 2, 16, 18, 35, 10, 19, 3, 22, 7, 32, 24, 34, 27, 21, 9, 20, 4, 29, 12, 31, 1, 26, 17, 14, 25, 5, 13, 33]
+Tiempo de ejecución es: 3406
+Terminó en generación: 2000
+Fitness resultante: 298633269
+
+Ejecución: 29
+Genotipo resultante: [35, 6, 2, 28, 18, 34, 22, 10, 7, 8, 15, 30, 3, 23, 16, 9, 19, 32, 13, 27, 33, 12, 11, 26, 31, 21, 25, 29, 1, 24, 5, 4, 20, 14, 17]
+Tiempo de ejecución es: 3408
+Terminó en generación: 2000
+Fitness resultante: 303577423
+
+Ejecución: 30
+Genotipo resultante: [21, 6, 25, 29, 13, 26, 5, 11, 7, 28, 4, 30, 33, 23, 35, 31, 24, 32, 9, 27, 15, 12, 18, 16, 2, 10, 34, 8, 1, 3, 22, 20, 19, 14, 17]
+Tiempo de ejecución es: 3257
+Terminó en generación: 2000
+Fitness resultante: 315271703
+
+N=1000, muta=10
+
+Ejecución: 1
+Genotipo resultante: [25, 31, 33, 10, 29, 11, 1, 8, 4, 22, 5, 12, 18, 26, 3, 13, 24, 32, 27, 34, 23, 15, 2, 7, 35, 17, 6, 28, 14, 19, 21, 16, 20, 9, 30]
+Tiempo de ejecución es: 12844
+Terminó en generación: 2000
+Fitness resultante: 300044143
+
+Ejecución: 2
+Genotipo resultante: [23, 19, 14, 7, 12, 6, 25, 1, 28, 9, 35, 31, 5, 21, 17, 4, 30, 26, 33, 13, 27, 8, 29, 22, 32, 16, 3, 15, 10, 18, 24, 11, 2, 34, 20]
+Tiempo de ejecución es: 14610
+Terminó en generación: 2000
+Fitness resultante: 321743650
+
+Ejecución: 3
+Genotipo resultante: [2, 9, 28, 6, 12, 7, 14, 17, 34, 8, 35, 5, 20, 19, 33, 30, 23, 1, 27, 13, 22, 32, 18, 29, 25, 24, 26, 15, 11, 3, 16, 10, 21, 4, 31]
+Tiempo de ejecución es: 19056
+Terminó en generación: 2000
+Fitness resultante: 314588665
+
+Ejecución: 4
+Genotipo resultante: [26, 31, 33, 30, 18, 35, 23, 28, 29, 15, 25, 21, 24, 22, 16, 7, 6, 4, 13, 27, 17, 5, 8, 2, 1, 3, 9, 19, 12, 34, 14, 20, 11, 32, 10]
+Tiempo de ejecución es: 18679
+Terminó en generación: 2000
+Fitness resultante: 317279493
+
+Ejecución: 5
+Genotipo resultante: [16, 18, 25, 7, 34, 30, 8, 23, 15, 35, 26, 29, 2, 3, 22, 9, 6, 24, 21, 27, 31, 20, 28, 14, 17, 11, 4, 13, 10, 5, 33, 19, 32, 1, 12]
+Tiempo de ejecución es: 18357
+Terminó en generación: 2000
+Fitness resultante: 337402791
+
+Ejecución: 6
+Genotipo resultante: [3, 32, 24, 29, 25, 8, 31, 10, 1, 26, 18, 12, 4, 20, 11, 22, 16, 5, 34, 27, 35, 21, 15, 6, 28, 17, 7, 2, 30, 19, 9, 23, 14, 13, 33]
+Tiempo de ejecución es: 19388
+Terminó en generación: 2000
+Fitness resultante: 307816253
+
+Ejecución: 7
+Genotipo resultante: [32, 34, 18, 33, 10, 3, 28, 11, 2, 9, 30, 23, 24, 8, 21, 22, 5, 19, 27, 13, 4, 1, 15, 26, 14, 35, 25, 29, 6, 16, 31, 7, 17, 20, 12]
+Tiempo de ejecución es: 20816
+Terminó en generación: 2000
+Fitness resultante: 309833837
+
+Ejecución: 8
+Genotipo resultante: [15, 6, 20, 2, 30, 34, 14, 1, 16, 19, 17, 35, 21, 7, 23, 12, 8, 28, 9, 27, 4, 3, 24, 31, 11, 18, 25, 26, 32, 22, 29, 10, 5, 13, 33]
+Tiempo de ejecución es: 19412
+Terminó en generación: 2000
+Fitness resultante: 298201249
+
+Ejecución: 9
+Genotipo resultante: [21, 33, 26, 24, 3, 29, 32, 1, 13, 22, 25, 12, 10, 5, 11, 31, 4, 18, 34, 27, 15, 19, 8, 16, 6, 28, 35, 9, 30, 23, 2, 7, 17, 14, 20]
+Tiempo de ejecución es: 18798
+Terminó en generación: 2000
+Fitness resultante: 308670984
+
+Ejecución: 10
+Genotipo resultante: [35, 30, 25, 9, 18, 5, 19, 11, 28, 3, 33, 23, 32, 7, 6, 26, 22, 10, 13, 27, 16, 21, 8, 17, 29, 24, 14, 12, 4, 1, 20, 31, 2, 15, 34]
+Tiempo de ejecución es: 18707
+Terminó en generación: 2000
+Fitness resultante: 318572105
+
+Ejecución: 11
+Genotipo resultante: [4, 5, 25, 29, 24, 31, 22, 11, 9, 12, 26, 1, 3, 33, 8, 2, 10, 18, 34, 27, 15, 35, 14, 19, 28, 30, 20, 17, 6, 32, 16, 7, 23, 13, 21]
+Tiempo de ejecución es: 21382
+Terminó en generación: 2000
+Fitness resultante: 308366214
+
+Ejecución: 12
+Genotipo resultante: [7, 35, 2, 19, 28, 10, 25, 3, 6, 26, 30, 11, 22, 32, 18, 9, 5, 23, 13, 33, 4, 14, 8, 17, 20, 34, 12, 31, 29, 21, 27, 1, 24, 15, 16]
+Tiempo de ejecución es: 19267
+Terminó en generación: 2000
+Fitness resultante: 319325527
+
+Ejecución: 13
+Genotipo resultante: [32, 10, 2, 16, 30, 15, 14, 5, 11, 18, 34, 22, 33, 3, 8, 24, 29, 1, 9, 27, 21, 35, 17, 31, 23, 12, 4, 28, 7, 19, 20, 6, 13, 26, 25]
+Tiempo de ejecución es: 19554
+Terminó en generación: 2000
+Fitness resultante: 318931394
+
+Ejecución: 14
+Genotipo resultante: [11, 29, 3, 12, 10, 18, 8, 4, 24, 31, 32, 21, 2, 26, 25, 22, 20, 34, 1, 27, 14, 23, 15, 7, 6, 28, 16, 35, 9, 19, 17, 30, 5, 13, 33]
+Tiempo de ejecución es: 17238
+Terminó en generación: 2000
+Fitness resultante: 315916795
+
+Ejecución: 15
+Genotipo resultante: [5, 12, 2, 10, 22, 19, 31, 4, 1, 3, 17, 25, 11, 33, 18, 14, 30, 26, 9, 27, 15, 28, 8, 6, 35, 29, 7, 24, 21, 34, 16, 23, 32, 13, 20]
+Tiempo de ejecución es: 18562
+Terminó en generación: 2000
+Fitness resultante: 308754642
+
+Ejecución: 16
+Genotipo resultante: [35, 23, 31, 29, 26, 25, 8, 30, 21, 7, 15, 24, 34, 6, 28, 4, 16, 9, 33, 13, 27, 20, 5, 18, 14, 2, 22, 3, 19, 12, 1, 17, 11, 32, 10]
+Tiempo de ejecución es: 15876
+Terminó en generación: 2000
+Fitness resultante: 321900182
+
+Ejecución: 17
+Genotipo resultante: [2, 9, 23, 21, 16, 35, 32, 20, 14, 19, 7, 15, 12, 30, 17, 6, 28, 1, 4, 31, 25, 24, 18, 26, 27, 5, 10, 11, 13, 3, 22, 33, 29, 34, 8]
+Tiempo de ejecución es: 16834
+Terminó en generación: 2000
+Fitness resultante: 320340914
+
+Ejecución: 18
+Genotipo resultante: [7, 6, 14, 22, 23, 3, 8, 2, 35, 32, 15, 28, 20, 17, 19, 18, 30, 16, 34, 27, 1, 4, 21, 12, 5, 31, 29, 11, 33, 10, 24, 13, 25, 9, 26]
+Tiempo de ejecución es: 17106
+Terminó en generación: 2000
+Fitness resultante: 321325040
+
+Ejecución: 19
+Genotipo resultante: [35, 28, 23, 2, 18, 32, 11, 24, 16, 22, 7, 10, 3, 15, 19, 6, 8, 30, 34, 27, 20, 25, 9, 12, 4, 5, 17, 1, 21, 29, 14, 31, 33, 13, 26]
+Tiempo de ejecución es: 17017
+Terminó en generación: 2000
+Fitness resultante: 302144667
+
+Ejecución: 20
+Genotipo resultante: [19, 24, 29, 1, 32, 25, 5, 4, 10, 31, 17, 20, 28, 11, 12, 26, 14, 21, 33, 13, 15, 22, 35, 7, 2, 8, 30, 6, 34, 23, 9, 18, 16, 27, 3]
+Tiempo de ejecución es: 18636
+Terminó en generación: 2000
+Fitness resultante: 317224708
+
+Ejecución: 21
+Genotipo resultante: [12, 19, 31, 28, 10, 4, 22, 24, 17, 5, 26, 32, 11, 20, 21, 25, 29, 3, 33, 13, 7, 15, 2, 35, 23, 18, 6, 30, 8, 34, 9, 16, 1, 27, 14]
+Tiempo de ejecución es: 19942
+Terminó en generación: 2000
+Fitness resultante: 325211968
+
+Ejecución: 22
+Genotipo resultante: [28, 19, 30, 21, 4, 6, 20, 33, 9, 12, 35, 2, 5, 13, 17, 7, 23, 31, 1, 14, 27, 22, 8, 29, 24, 18, 26, 34, 11, 3, 25, 10, 32, 15, 16]
+Tiempo de ejecución es: 20546
+Terminó en generación: 2000
+Fitness resultante: 317683670
+
+Ejecución: 23
+Genotipo resultante: [9, 3, 16, 8, 30, 29, 26, 33, 22, 10, 15, 5, 25, 18, 11, 24, 34, 2, 13, 27, 4, 7, 32, 1, 14, 23, 12, 31, 6, 21, 20, 17, 19, 35, 28]
+Tiempo de ejecución es: 16562
+Terminó en generación: 2000
+Fitness resultante: 309851855
+
+Ejecución: 24
+Genotipo resultante: [35, 7, 17, 19, 14, 28, 12, 10, 23, 4, 21, 29, 11, 6, 24, 20, 31, 1, 32, 13, 33, 9, 18, 3, 27, 30, 5, 26, 8, 22, 25, 2, 15, 34, 16]
+Tiempo de ejecución es: 19854
+Terminó en generación: 2000
+Fitness resultante: 335633676
+
+Ejecución: 25
+Genotipo resultante: [22, 29, 18, 15, 2, 16, 10, 8, 25, 9, 3, 24, 34, 26, 11, 5, 33, 32, 13, 27, 14, 23, 35, 1, 12, 28, 17, 6, 21, 7, 30, 20, 31, 4, 19]
+Tiempo de ejecución es: 18029
+Terminó en generación: 2000
+Fitness resultante: 301274809
+
+Ejecución: 26
+Genotipo resultante: [25, 29, 23, 35, 3, 6, 11, 32, 26, 7, 4, 30, 18, 24, 22, 31, 28, 10, 21, 27, 16, 17, 33, 8, 34, 19, 15, 12, 9, 5, 20, 2, 14, 13, 1]
+Tiempo de ejecución es: 16030
+Terminó en generación: 2000
+Fitness resultante: 316331442
+
+Ejecución: 27
+Genotipo resultante: [30, 3, 29, 4, 12, 25, 24, 17, 18, 14, 22, 5, 11, 33, 1, 26, 31, 13, 9, 27, 6, 21, 10, 16, 20, 8, 35, 28, 23, 19, 7, 15, 34, 32, 2]
+Tiempo de ejecución es: 15964
+Terminó en generación: 2000
+Fitness resultante: 301905924
+
+Ejecución: 28
+Genotipo resultante: [12, 10, 14, 2, 3, 20, 11, 22, 13, 5, 17, 33, 8, 32, 18, 19, 1, 30, 9, 27, 16, 7, 15, 29, 26, 34, 25, 31, 6, 4, 24, 35, 23, 21, 28]
+Tiempo de ejecución es: 17737
+Terminó en generación: 2000
+Fitness resultante: 295001625
+
+Ejecución: 29
+Genotipo resultante: [5, 19, 32, 10, 29, 3, 24, 22, 12, 20, 34, 1, 18, 17, 8, 2, 11, 14, 9, 27, 23, 35, 30, 7, 4, 33, 6, 31, 28, 25, 21, 13, 26, 16, 15]
+Tiempo de ejecución es: 20311
+Terminó en generación: 2000
+Fitness resultante: 295932368
+
+Ejecución: 30
+Genotipo resultante: [22, 25, 20, 32, 14, 3, 30, 33, 4, 11, 17, 31, 10, 26, 18, 12, 5, 1, 13, 27, 21, 9, 24, 7, 35, 19, 6, 28, 2, 29, 23, 34, 8, 16, 15]
+Tiempo de ejecución es: 18501
+Terminó en generación: 2000
+Fitness resultante: 304415046
+
+N=1000, muta=40
+
+Ejecución: 1
+Genotipo resultante: [34, 2, 22, 32, 33, 3, 31, 24, 9, 8, 11, 29, 25, 5, 26, 18, 10, 4, 13, 27, 16, 17, 21, 28, 35, 19, 7, 6, 20, 23, 30, 15, 14, 1, 12]
+Tiempo de ejecución es: 9203
+Terminó en generación: 1000
+Fitness resultante: 294666876
+
+Ejecución: 2
+Genotipo resultante: [28, 19, 21, 16, 17, 8, 20, 1, 35, 23, 2, 14, 30, 6, 7, 34, 15, 12, 4, 31, 26, 11, 10, 3, 27, 24, 22, 18, 5, 25, 29, 33, 32, 13, 9]
+Tiempo de ejecución es: 7662
+Terminó en generación: 1000
+Fitness resultante: 323115424
+
+Ejecución: 3
+Genotipo resultante: [21, 6, 20, 1, 31, 12, 30, 28, 17, 23, 14, 4, 29, 7, 35, 16, 34, 19, 15, 27, 10, 33, 18, 11, 24, 25, 3, 32, 5, 22, 26, 13, 9, 2, 8]
+Tiempo de ejecución es: 7308
+Terminó en generación: 1000
+Fitness resultante: 322920665
+
+Ejecución: 4
+Genotipo resultante: [4, 11, 31, 26, 18, 24, 12, 13, 10, 5, 29, 22, 1, 3, 33, 8, 25, 32, 34, 27, 15, 17, 28, 6, 35, 19, 7, 23, 14, 16, 21, 2, 20, 9, 30]
+Tiempo de ejecución es: 7808
+Terminó en generación: 1000
+Fitness resultante: 301364899
+
+Ejecución: 5
+Genotipo resultante: [13, 12, 22, 10, 17, 2, 18, 19, 5, 33, 32, 9, 8, 20, 15, 11, 3, 16, 34, 27, 1, 25, 30, 4, 31, 6, 29, 14, 23, 7, 24, 21, 35, 28, 26]
+Tiempo de ejecución es: 7512
+Terminó en generación: 1000
+Fitness resultante: 314511832
+
+Ejecución: 6
+Genotipo resultante: [18, 3, 20, 17, 19, 14, 16, 33, 5, 9, 30, 8, 10, 2, 22, 12, 1, 15, 34, 27, 7, 21, 11, 24, 29, 13, 6, 35, 26, 28, 32, 23, 25, 4, 31]
+Tiempo de ejecución es: 7207
+Terminó en generación: 1000
+Fitness resultante: 310367494
+
+Ejecución: 7
+Genotipo resultante: [14, 1, 25, 7, 10, 4, 20, 28, 29, 35, 26, 24, 19, 17, 12, 31, 6, 11, 23, 21, 32, 30, 8, 2, 27, 16, 34, 22, 9, 18, 3, 15, 5, 13, 33]
+Tiempo de ejecución es: 8401
+Terminó en generación: 1000
+Fitness resultante: 329821533
+
+Ejecución: 8
+Genotipo resultante: [17, 12, 32, 31, 18, 4, 3, 8, 14, 20, 2, 11, 22, 1, 10, 19, 29, 24, 34, 27, 16, 28, 5, 23, 6, 30, 13, 9, 35, 33, 15, 7, 25, 21, 26]
+Tiempo de ejecución es: 9318
+Terminó en generación: 1000
+Fitness resultante: 313989116
+
+Ejecución: 9
+Genotipo resultante: [19, 12, 2, 9, 11, 4, 8, 25, 17, 26, 29, 24, 10, 20, 1, 14, 31, 5, 27, 34, 13, 35, 18, 30, 16, 22, 32, 15, 7, 3, 33, 6, 28, 21, 23]
+Tiempo de ejecución es: 8035
+Terminó en generación: 1000
+Fitness resultante: 322025793
+
+Ejecución: 10
+Genotipo resultante: [34, 11, 13, 25, 8, 5, 3, 29, 26, 4, 2, 24, 22, 10, 31, 33, 32, 18, 27, 9, 30, 21, 14, 7, 23, 16, 6, 12, 35, 1, 17, 28, 15, 20, 19]
+Tiempo de ejecución es: 7930
+Terminó en generación: 1000
+Fitness resultante: 302271808
+
+Ejecución: 11
+Genotipo resultante: [8, 16, 33, 29, 11, 5, 26, 25, 3, 18, 13, 15, 10, 34, 22, 2, 24, 32, 9, 27, 21, 23, 12, 4, 14, 20, 1, 17, 6, 19, 31, 7, 30, 35, 28]
+Tiempo de ejecución es: 9967
+Terminó en generación: 1000
+Fitness resultante: 300232294
+
+Ejecución: 12
+Genotipo resultante: [7, 35, 4, 30, 12, 14, 18, 26, 6, 25, 21, 20, 22, 28, 31, 23, 17, 1, 13, 27, 32, 8, 33, 10, 34, 5, 11, 9, 29, 19, 2, 24, 3, 15, 16]
+Tiempo de ejecución es: 7545
+Terminó en generación: 1000
+Fitness resultante: 331871019
+
+Ejecución: 13
+Genotipo resultante: [16, 7, 21, 1, 8, 17, 28, 14, 23, 4, 12, 35, 19, 6, 31, 20, 15, 34, 29, 24, 10, 5, 18, 26, 27, 30, 25, 3, 13, 22, 11, 33, 32, 9, 2]
+Tiempo de ejecución es: 7059
+Terminó en generación: 1000
+Fitness resultante: 318693717
+
+Ejecución: 14
+Genotipo resultante: [25, 34, 10, 3, 5, 11, 1, 24, 9, 30, 22, 29, 8, 33, 2, 26, 18, 32, 13, 27, 35, 20, 4, 7, 6, 31, 28, 17, 23, 19, 14, 21, 12, 15, 16]
+Tiempo de ejecución es: 8364
+Terminó en generación: 1000
+Fitness resultante: 307423628
+
+Ejecución: 15
+Genotipo resultante: [23, 30, 20, 9, 6, 2, 15, 35, 13, 10, 21, 5, 16, 33, 19, 28, 8, 7, 27, 34, 25, 24, 3, 4, 31, 18, 26, 22, 1, 11, 32, 29, 14, 12, 17]
+Tiempo de ejecución es: 6702
+Terminó en generación: 1000
+Fitness resultante: 316028963
+
+Ejecución: 16
+Genotipo resultante: [10, 6, 25, 18, 23, 22, 19, 30, 7, 3, 26, 13, 33, 35, 32, 11, 5, 28, 27, 9, 15, 20, 21, 24, 29, 2, 16, 8, 1, 31, 34, 12, 4, 14, 17]
+Tiempo de ejecución es: 8719
+Terminó en generación: 1000
+Fitness resultante: 317905807
+
+Ejecución: 17
+Genotipo resultante: [14, 30, 6, 9, 1, 34, 10, 8, 17, 28, 35, 21, 29, 19, 23, 7, 2, 24, 15, 16, 26, 3, 11, 25, 13, 18, 31, 33, 22, 5, 4, 27, 12, 20, 32]
+Tiempo de ejecución es: 9570
+Terminó en generación: 1000
+Fitness resultante: 328841941
+
+Ejecución: 18
+Genotipo resultante: [10, 33, 22, 18, 8, 32, 26, 34, 5, 4, 31, 24, 25, 11, 2, 3, 21, 29, 27, 13, 14, 28, 9, 12, 20, 23, 17, 1, 15, 19, 30, 16, 7, 35, 6]
+Tiempo de ejecución es: 8332
+Terminó en generación: 1000
+Fitness resultante: 303047834
+
+Ejecución: 19
+Genotipo resultante: [32, 12, 3, 11, 19, 18, 8, 25, 20, 4, 10, 17, 31, 5, 33, 22, 26, 2, 13, 27, 15, 29, 9, 35, 28, 34, 6, 7, 23, 30, 16, 21, 24, 1, 14]
+Tiempo de ejecución es: 8275
+Terminó en generación: 1000
+Fitness resultante: 317780797
+
+Ejecución: 20
+Genotipo resultante: [6, 15, 19, 20, 31, 4, 30, 1, 35, 16, 17, 21, 12, 23, 28, 7, 14, 13, 2, 9, 10, 24, 33, 3, 32, 29, 11, 8, 26, 5, 34, 25, 18, 27, 22]
+Tiempo de ejecución es: 6501
+Terminó en generación: 1000
+Fitness resultante: 320542081
+
+Ejecución: 21
+Genotipo resultante: [26, 22, 7, 4, 24, 35, 21, 28, 3, 10, 25, 18, 29, 32, 11, 31, 6, 23, 13, 27, 9, 12, 34, 19, 17, 8, 2, 5, 1, 30, 33, 14, 20, 15, 16]
+Tiempo de ejecución es: 7936
+Terminó en generación: 1000
+Fitness resultante: 308330614
+
+Ejecución: 22
+Genotipo resultante: [10, 24, 26, 31, 32, 13, 2, 28, 29, 8, 33, 21, 19, 34, 11, 5, 25, 4, 27, 9, 35, 1, 22, 6, 30, 12, 7, 18, 14, 3, 23, 17, 15, 16, 20]
+Tiempo de ejecución es: 8790
+Terminó en generación: 1000
+Fitness resultante: 320404110
+
+Ejecución: 23
+Genotipo resultante: [26, 25, 11, 3, 13, 18, 33, 10, 29, 2, 24, 9, 8, 34, 32, 22, 16, 5, 15, 27, 23, 20, 4, 35, 6, 19, 7, 28, 17, 31, 21, 12, 14, 1, 30]
+Tiempo de ejecución es: 9491
+Terminó en generación: 1000
+Fitness resultante: 301766140
+
+Ejecución: 24
+Genotipo resultante: [2, 11, 18, 1, 10, 3, 12, 17, 32, 34, 14, 19, 20, 24, 8, 30, 22, 5, 9, 27, 7, 23, 29, 35, 28, 25, 6, 13, 15, 33, 26, 16, 4, 21, 31]
+Tiempo de ejecución es: 9103
+Terminó en generación: 1000
+Fitness resultante: 295025168
+
+Ejecución: 25
+Genotipo resultante: [1, 17, 32, 5, 18, 11, 30, 22, 2, 12, 3, 9, 8, 14, 19, 10, 33, 20, 27, 13, 35, 26, 28, 16, 7, 34, 6, 21, 29, 23, 15, 24, 4, 25, 31]
+Tiempo de ejecución es: 8040
+Terminó en generación: 1000
+Fitness resultante: 291382957
+
+Ejecución: 26
+Genotipo resultante: [8, 2, 7, 23, 4, 28, 24, 29, 34, 31, 6, 25, 26, 10, 21, 35, 19, 11, 15, 16, 9, 1, 3, 30, 13, 5, 33, 18, 17, 22, 27, 14, 32, 20, 12]
+Tiempo de ejecución es: 7441
+Terminó en generación: 1000
+Fitness resultante: 319175731
+
+Ejecución: 27
+Genotipo resultante: [29, 15, 7, 35, 22, 6, 18, 3, 23, 11, 8, 26, 32, 24, 10, 16, 28, 30, 34, 27, 1, 5, 2, 4, 17, 9, 14, 31, 12, 19, 21, 20, 25, 13, 33]
+Tiempo de ejecución es: 8512
+Terminó en generación: 1000
+Fitness resultante: 312921900
+
+Ejecución: 28
+Genotipo resultante: [4, 31, 5, 10, 12, 11, 18, 24, 1, 3, 25, 34, 22, 29, 8, 33, 26, 32, 27, 13, 35, 21, 2, 7, 23, 16, 6, 30, 19, 15, 9, 28, 17, 20, 14]
+Tiempo de ejecución es: 9440
+Terminó en generación: 1000
+Fitness resultante: 297541171
+
+Ejecución: 29
+Genotipo resultante: [30, 16, 7, 1, 33, 35, 8, 5, 15, 3, 6, 22, 12, 18, 23, 17, 14, 20, 27, 9, 32, 29, 34, 13, 25, 19, 26, 21, 31, 28, 2, 4, 11, 10, 24]
+Tiempo de ejecución es: 9105
+Terminó en generación: 1000
+Fitness resultante: 321716734
+
+Ejecución: 30
+Genotipo resultante: [6, 28, 17, 20, 15, 34, 8, 14, 35, 16, 2, 21, 32, 7, 23, 19, 12, 1, 9, 27, 3, 33, 30, 22, 10, 5, 11, 18, 25, 29, 24, 26, 31, 13, 4]
+Tiempo de ejecución es: 8548
+Terminó en generación: 1000
+Fitness resultante: 312616411
+
+N=1000, mut=70
+
+
+Ejecución: 1
+Genotipo resultante: [31, 29, 25, 26, 11, 22, 17, 30, 4, 33, 5, 24, 12, 1, 14, 3, 18, 10, 27, 9, 2, 23, 13, 16, 6, 19, 7, 34, 28, 8, 15, 35, 21, 32, 20]
+Tiempo de ejecución es: 8340
+Terminó en generación: 1000
+Fitness resultante: 296489255
+
+Ejecución: 2
+Genotipo resultante: [10, 3, 2, 12, 11, 20, 1, 14, 18, 8, 19, 34, 30, 22, 32, 17, 5, 24, 27, 9, 26, 7, 13, 21, 4, 16, 31, 25, 6, 33, 29, 23, 28, 35, 15]
+Tiempo de ejecución es: 8272
+Terminó en generación: 1000
+Fitness resultante: 292678866
+
+Ejecución: 3
+Genotipo resultante: [4, 6, 28, 15, 25, 23, 18, 3, 29, 22, 31, 26, 11, 7, 24, 35, 16, 30, 27, 21, 34, 19, 10, 5, 2, 32, 9, 33, 20, 8, 13, 12, 17, 1, 14]
+Tiempo de ejecución es: 9404
+Terminó en generación: 1000
+Fitness resultante: 311646479
+
+Ejecución: 4
+Genotipo resultante: [25, 31, 24, 16, 2, 20, 23, 19, 34, 11, 26, 21, 28, 4, 10, 29, 8, 32, 15, 27, 1, 9, 35, 17, 12, 6, 14, 18, 7, 3, 22, 30, 33, 13, 5]
+Tiempo de ejecución es: 9930
+Terminó en generación: 1000
+Fitness resultante: 331402739
+
+Ejecución: 5
+Genotipo resultante: [10, 19, 25, 11, 7, 26, 20, 24, 21, 35, 31, 23, 29, 28, 6, 4, 32, 17, 13, 27, 1, 22, 8, 14, 18, 34, 30, 5, 3, 12, 33, 9, 2, 15, 16]
+Tiempo de ejecución es: 10208
+Terminó en generación: 1000
+Fitness resultante: 329431243
+
+Ejecución: 6
+Genotipo resultante: [28, 19, 7, 16, 12, 35, 8, 20, 15, 17, 23, 21, 34, 30, 14, 6, 2, 1, 9, 27, 32, 4, 5, 24, 10, 33, 11, 3, 26, 18, 22, 25, 31, 29, 13]
+Tiempo de ejecución es: 7679
+Terminó en generación: 1000
+Fitness resultante: 299947742
+
+Ejecución: 7
+Genotipo resultante: [10, 34, 3, 11, 6, 2, 28, 19, 15, 8, 18, 16, 35, 30, 7, 22, 32, 23, 27, 9, 25, 20, 5, 4, 21, 33, 31, 29, 1, 24, 26, 12, 13, 14, 17]
+Tiempo de ejecución es: 7279
+Terminó en generación: 1000
+Fitness resultante: 303988666
+
+Ejecución: 8
+Genotipo resultante: [3, 10, 8, 32, 7, 2, 23, 35, 5, 18, 16, 24, 6, 9, 11, 15, 22, 30, 34, 27, 20, 4, 21, 14, 1, 26, 17, 12, 31, 28, 19, 25, 29, 13, 33]
+Tiempo de ejecución es: 7979
+Terminó en generación: 1000
+Fitness resultante: 310772046
+
+Ejecución: 9
+Genotipo resultante: [21, 31, 30, 26, 3, 23, 10, 22, 32, 33, 28, 4, 11, 13, 25, 35, 18, 5, 7, 6, 9, 17, 16, 2, 20, 8, 27, 34, 1, 19, 15, 12, 24, 29, 14]
+Tiempo de ejecución es: 8183
+Terminó en generación: 1000
+Fitness resultante: 325474521
+
+Ejecución: 10
+Genotipo resultante: [35, 28, 23, 31, 8, 7, 3, 24, 16, 29, 21, 26, 18, 15, 25, 6, 4, 22, 34, 27, 2, 12, 30, 19, 14, 5, 17, 13, 20, 33, 9, 1, 11, 10, 32]
+Tiempo de ejecución es: 7303
+Terminó en generación: 1000
+Fitness resultante: 312111365
+
+Ejecución: 11
+Genotipo resultante: [16, 18, 7, 23, 17, 30, 14, 32, 22, 19, 35, 3, 1, 15, 20, 6, 28, 12, 27, 13, 26, 9, 11, 31, 4, 10, 25, 21, 2, 24, 29, 34, 8, 5, 33]
+Tiempo de ejecución es: 9007
+Terminó en generación: 1000
+Fitness resultante: 318007826
+
+Ejecución: 12
+Genotipo resultante: [35, 3, 6, 15, 25, 7, 5, 22, 28, 30, 16, 26, 18, 13, 33, 23, 8, 9, 34, 27, 4, 12, 29, 1, 17, 11, 14, 31, 32, 24, 21, 20, 2, 10, 19]
+Tiempo de ejecución es: 6890
+Terminó en generación: 1000
+Fitness resultante: 320469828
+
+Ejecución: 13
+Genotipo resultante: [23, 34, 6, 15, 18, 30, 11, 22, 8, 2, 7, 24, 10, 32, 35, 16, 3, 29, 9, 27, 1, 25, 20, 12, 26, 28, 5, 17, 33, 19, 14, 13, 4, 31, 21]
+Tiempo de ejecución es: 6954
+Terminó en generación: 1000
+Fitness resultante: 307643272
+
+Ejecución: 14
+Genotipo resultante: [16, 15, 23, 7, 8, 6, 33, 28, 29, 25, 21, 24, 30, 26, 31, 34, 35, 13, 9, 2, 12, 22, 19, 1, 27, 4, 14, 17, 18, 20, 5, 3, 10, 32, 11]
+Tiempo de ejecución es: 7186
+Terminó en generación: 1000
+Fitness resultante: 316103179
+
+Ejecución: 15
+Genotipo resultante: [35, 23, 19, 9, 8, 28, 5, 20, 7, 30, 14, 34, 33, 6, 1, 17, 2, 12, 13, 27, 10, 31, 3, 22, 25, 4, 26, 11, 24, 18, 32, 29, 21, 15, 16]
+Tiempo de ejecución es: 6831
+Terminó en generación: 1000
+Fitness resultante: 311193510
+
+Ejecución: 16
+Genotipo resultante: [26, 18, 29, 5, 30, 33, 8, 12, 1, 14, 31, 3, 11, 22, 25, 24, 4, 10, 27, 9, 15, 6, 17, 16, 23, 20, 21, 34, 35, 19, 2, 28, 32, 13, 7]
+Tiempo de ejecución es: 7184
+Terminó en generación: 1000
+Fitness resultante: 302543041
+
+Ejecución: 17
+Genotipo resultante: [15, 34, 35, 9, 16, 23, 28, 33, 2, 22, 6, 3, 5, 8, 18, 7, 30, 32, 13, 27, 26, 12, 24, 25, 4, 14, 31, 29, 20, 1, 21, 17, 11, 10, 19]
+Tiempo de ejecución es: 6876
+Terminó en generación: 1000
+Fitness resultante: 306341127
+
+Ejecución: 18
+Genotipo resultante: [12, 1, 25, 33, 8, 31, 32, 22, 5, 24, 4, 10, 18, 11, 3, 26, 29, 20, 27, 13, 16, 30, 28, 6, 15, 34, 7, 23, 17, 35, 21, 14, 19, 9, 2]
+Tiempo de ejecución es: 6402
+Terminó en generación: 1000
+Fitness resultante: 293937649
+
+Ejecución: 19
+Genotipo resultante: [3, 18, 5, 34, 32, 19, 33, 8, 1, 22, 12, 20, 11, 14, 17, 10, 2, 30, 27, 9, 13, 23, 4, 21, 35, 29, 28, 25, 6, 31, 26, 7, 24, 15, 16]
+Tiempo de ejecución es: 6555
+Terminó en generación: 1000
+Fitness resultante: 290335535
+
+Ejecución: 20
+Genotipo resultante: [1, 4, 5, 17, 25, 14, 26, 22, 10, 32, 12, 31, 18, 11, 20, 33, 19, 3, 13, 27, 2, 34, 30, 16, 35, 8, 15, 6, 28, 7, 9, 23, 29, 21, 24]
+Tiempo de ejecución es: 6432
+Terminó en generación: 1000
+Fitness resultante: 303285200
+
+Ejecución: 21
+Genotipo resultante: [6, 35, 25, 23, 16, 4, 11, 32, 7, 24, 26, 3, 22, 15, 29, 31, 28, 18, 21, 27, 20, 19, 33, 17, 1, 30, 12, 14, 9, 5, 13, 2, 34, 10, 8]
+Tiempo de ejecución es: 6330
+Terminó en generación: 1000
+Fitness resultante: 304993668
+
+Ejecución: 22
+Genotipo resultante: [20, 21, 35, 30, 19, 7, 2, 28, 13, 34, 23, 17, 33, 12, 5, 6, 9, 8, 16, 15, 27, 29, 10, 18, 3, 1, 22, 24, 26, 11, 32, 25, 14, 4, 31]
+Tiempo de ejecución es: 6916
+Terminó en generación: 1000
+Fitness resultante: 308026344
+
+Ejecución: 23
+Genotipo resultante: [19, 28, 12, 20, 14, 17, 7, 30, 15, 23, 9, 35, 2, 16, 1, 5, 8, 6, 33, 13, 32, 26, 24, 11, 4, 29, 10, 22, 31, 18, 3, 25, 34, 27, 21]
+Tiempo de ejecución es: 6962
+Terminó en generación: 1000
+Fitness resultante: 307716372
+
+Ejecución: 24
+Genotipo resultante: [35, 16, 23, 18, 4, 30, 14, 26, 6, 31, 15, 7, 25, 29, 24, 28, 22, 1, 21, 27, 13, 11, 34, 2, 32, 3, 9, 5, 19, 8, 33, 10, 12, 20, 17]
+Tiempo de ejecución es: 6736
+Terminó en generación: 1000
+Fitness resultante: 321792747
+
+Ejecución: 25
+Genotipo resultante: [4, 11, 5, 12, 22, 33, 32, 30, 26, 31, 13, 3, 18, 10, 25, 17, 20, 19, 1, 14, 24, 16, 21, 6, 7, 8, 35, 23, 15, 28, 29, 27, 2, 9, 34]
+Tiempo de ejecución es: 6694
+Terminó en generación: 1000
+Fitness resultante: 309723343
+
+Ejecución: 26
+Genotipo resultante: [2, 9, 1, 34, 5, 29, 26, 33, 19, 14, 20, 4, 25, 17, 31, 12, 21, 8, 13, 27, 35, 11, 30, 6, 16, 24, 7, 15, 10, 23, 28, 32, 22, 3, 18]
+Tiempo de ejecución es: 7337
+Terminó en generación: 1000
+Fitness resultante: 318206489
+
+Ejecución: 27
+Genotipo resultante: [31, 25, 18, 22, 17, 3, 33, 32, 4, 11, 14, 29, 24, 26, 12, 1, 5, 20, 13, 27, 34, 35, 16, 19, 28, 9, 10, 2, 21, 15, 8, 23, 30, 7, 6]
+Tiempo de ejecución es: 6630
+Terminó en generación: 1000
+Fitness resultante: 295895091
+
+Ejecución: 28
+Genotipo resultante: [32, 22, 20, 14, 5, 4, 33, 1, 3, 11, 17, 26, 21, 18, 25, 12, 31, 30, 27, 13, 15, 8, 24, 6, 35, 28, 7, 16, 2, 23, 29, 34, 19, 9, 10]
+Tiempo de ejecución es: 6590
+Terminó en generación: 1000
+Fitness resultante: 303828938
+
+Ejecución: 29
+Genotipo resultante: [25, 24, 11, 34, 10, 3, 2, 33, 31, 29, 32, 8, 5, 4, 26, 22, 18, 9, 27, 13, 12, 7, 21, 20, 28, 30, 17, 14, 6, 19, 1, 35, 23, 16, 15]
+Tiempo de ejecución es: 6861
+Terminó en generación: 1000
+Fitness resultante: 293316683
+
+Ejecución: 30
+Genotipo resultante: [10, 3, 25, 2, 8, 34, 29, 22, 32, 5, 33, 18, 30, 11, 19, 26, 9, 24, 13, 27, 14, 35, 31, 21, 23, 4, 1, 20, 6, 12, 17, 7, 28, 15, 16]
+Tiempo de ejecución es: 6880
+Terminó en generación: 1000
+Fitness resultante: 300906149
+
+N=1000, muta=100
+
+Ejecución: 1
+Genotipo resultante: [25, 4, 1, 30, 22, 33, 32, 17, 26, 3, 5, 31, 11, 12, 18, 14, 9, 20, 13, 27, 34, 23, 24, 2, 16, 19, 15, 10, 7, 8, 29, 6, 28, 21, 35]
+Tiempo de ejecución es: 8090
+Terminó en generación: 1000
+Fitness resultante: 302054337
+
+Ejecución: 2
+Genotipo resultante: [11, 26, 34, 18, 8, 32, 9, 33, 10, 29, 3, 15, 5, 25, 24, 22, 2, 16, 27, 13, 12, 23, 30, 17, 6, 20, 7, 14, 35, 19, 1, 28, 21, 4, 31]
+Tiempo de ejecución es: 8089
+Terminó en generación: 1000
+Fitness resultante: 297410887
+
+Ejecución: 3
+Genotipo resultante: [35, 28, 16, 23, 2, 7, 24, 11, 10, 18, 15, 19, 8, 32, 3, 6, 22, 30, 34, 27, 31, 1, 26, 4, 12, 20, 9, 25, 33, 29, 21, 5, 17, 13, 14]
+Tiempo de ejecución es: 7937
+Terminó en generación: 1000
+Fitness resultante: 304853933
+
+Ejecución: 4
+Genotipo resultante: [35, 7, 17, 30, 22, 19, 8, 34, 6, 16, 15, 10, 2, 23, 18, 14, 28, 3, 27, 9, 13, 4, 20, 33, 31, 21, 25, 12, 26, 5, 1, 29, 11, 32, 24]
+Tiempo de ejecución es: 7390
+Terminó en generación: 1000
+Fitness resultante: 314102908
+
+Ejecución: 5
+Genotipo resultante: [22, 4, 14, 20, 8, 17, 34, 19, 3, 11, 1, 18, 2, 32, 10, 12, 5, 24, 27, 9, 7, 16, 21, 35, 13, 28, 6, 23, 29, 33, 30, 15, 26, 31, 25]
+Tiempo de ejecución es: 7359
+Terminó en generación: 1000
+Fitness resultante: 295207961
+
+Ejecución: 6
+Genotipo resultante: [31, 25, 19, 32, 13, 4, 6, 7, 29, 35, 28, 21, 23, 26, 24, 10, 11, 33, 2, 9, 27, 16, 8, 22, 15, 5, 18, 3, 20, 34, 30, 12, 17, 1, 14]
+Tiempo de ejecución es: 7398
+Terminó en generación: 1000
+Fitness resultante: 331204506
+
+Ejecución: 7
+Genotipo resultante: [7, 35, 31, 5, 22, 4, 18, 11, 6, 28, 25, 3, 32, 23, 26, 33, 21, 30, 13, 27, 16, 29, 24, 17, 20, 8, 12, 19, 1, 10, 15, 14, 34, 2, 9]
+Tiempo de ejecución es: 6934
+Terminó en generación: 1000
+Fitness resultante: 308498763
+
+Ejecución: 8
+Genotipo resultante: [34, 19, 18, 32, 20, 3, 16, 24, 2, 17, 10, 14, 29, 1, 8, 11, 22, 12, 15, 27, 35, 31, 21, 6, 25, 30, 7, 26, 33, 28, 23, 13, 5, 9, 4]
+Tiempo de ejecución es: 7606
+Terminó en generación: 1000
+Fitness resultante: 294461686
+
+Ejecución: 9
+Genotipo resultante: [7, 14, 5, 21, 34, 30, 8, 2, 6, 17, 23, 12, 19, 35, 20, 9, 28, 1, 13, 33, 32, 29, 18, 25, 27, 3, 26, 22, 24, 16, 15, 11, 31, 4, 10]
+Tiempo de ejecución es: 8817
+Terminó en generación: 1000
+Fitness resultante: 309441701
+
+Ejecución: 10
+Genotipo resultante: [12, 14, 4, 26, 33, 31, 19, 11, 1, 5, 24, 20, 10, 17, 9, 29, 25, 30, 27, 13, 6, 34, 21, 28, 15, 8, 35, 16, 32, 23, 7, 2, 18, 3, 22]
+Tiempo de ejecución es: 9863
+Terminó en generación: 1000
+Fitness resultante: 316843060
+
+Ejecución: 11
+Genotipo resultante: [30, 6, 17, 32, 15, 14, 8, 20, 7, 34, 23, 9, 2, 21, 35, 28, 19, 16, 13, 27, 3, 12, 33, 22, 25, 18, 26, 11, 31, 5, 10, 4, 1, 24, 29]
+Tiempo de ejecución es: 8370
+Terminó en generación: 1000
+Fitness resultante: 309374240
+
+Ejecución: 12
+Genotipo resultante: [1, 4, 5, 29, 18, 25, 22, 9, 14, 17, 12, 11, 30, 24, 3, 31, 26, 10, 13, 33, 7, 32, 8, 6, 16, 20, 35, 28, 15, 23, 21, 34, 19, 27, 2]
+Tiempo de ejecución es: 7397
+Terminó en generación: 1000
+Fitness resultante: 304016779
+
+Ejecución: 13
+Genotipo resultante: [33, 12, 6, 15, 2, 16, 8, 23, 20, 19, 7, 17, 30, 5, 9, 35, 28, 34, 13, 27, 31, 3, 32, 25, 29, 18, 26, 22, 11, 4, 21, 24, 14, 10, 1]
+Tiempo de ejecución es: 9450
+Terminó en generación: 1000
+Fitness resultante: 311281884
+
+Ejecución: 14
+Genotipo resultante: [11, 19, 24, 12, 9, 1, 14, 20, 10, 22, 32, 5, 17, 3, 18, 2, 8, 30, 27, 34, 15, 25, 23, 6, 4, 28, 7, 35, 29, 21, 16, 31, 26, 13, 33]
+Tiempo de ejecución es: 9871
+Terminó en generación: 1000
+Fitness resultante: 290134302
+
+Ejecución: 15
+Genotipo resultante: [10, 11, 26, 18, 12, 33, 5, 29, 17, 24, 22, 30, 1, 4, 31, 25, 3, 14, 13, 27, 7, 28, 34, 23, 21, 8, 6, 35, 19, 16, 15, 20, 2, 32, 9]
+Tiempo de ejecución es: 8683
+Terminó en generación: 1000
+Fitness resultante: 299491393
+
+Ejecución: 16
+Genotipo resultante: [35, 21, 7, 16, 19, 9, 14, 8, 28, 6, 34, 1, 17, 23, 30, 15, 2, 20, 13, 27, 29, 11, 33, 25, 22, 12, 26, 31, 18, 4, 24, 3, 5, 32, 10]
+Tiempo de ejecución es: 8316
+Terminó en generación: 1000
+Fitness resultante: 310936490
+
+Ejecución: 17
+Genotipo resultante: [10, 19, 3, 18, 20, 22, 28, 23, 2, 24, 14, 17, 21, 32, 11, 1, 8, 12, 34, 27, 4, 25, 15, 7, 29, 30, 31, 6, 33, 35, 16, 13, 5, 9, 26]
+Tiempo de ejecución es: 8687
+Terminó en generación: 1000
+Fitness resultante: 320076538
+
+Ejecución: 18
+Genotipo resultante: [26, 25, 8, 2, 33, 3, 18, 22, 29, 24, 34, 4, 1, 31, 11, 5, 10, 12, 27, 9, 15, 35, 20, 30, 21, 19, 23, 14, 6, 17, 16, 7, 28, 13, 32]
+Tiempo de ejecución es: 7729
+Terminó en generación: 1000
+Fitness resultante: 304875071
+
+Ejecución: 19
+Genotipo resultante: [25, 29, 10, 32, 5, 11, 8, 17, 26, 33, 3, 1, 12, 24, 14, 22, 18, 20, 27, 13, 9, 23, 31, 7, 35, 19, 6, 4, 21, 34, 2, 28, 30, 15, 16]
+Tiempo de ejecución es: 7835
+Terminó en generación: 1000
+Fitness resultante: 307701075
+
+Ejecución: 20
+Genotipo resultante: [14, 17, 32, 3, 35, 18, 5, 11, 1, 19, 30, 6, 7, 20, 10, 12, 22, 28, 9, 27, 34, 31, 24, 21, 16, 33, 15, 8, 29, 23, 2, 13, 25, 4, 26]
+Tiempo de ejecución es: 7625
+Terminó en generación: 1000
+Fitness resultante: 332497481
+
+Ejecución: 21
+Genotipo resultante: [33, 1, 22, 10, 17, 11, 30, 31, 12, 24, 3, 14, 25, 5, 26, 18, 4, 29, 13, 27, 9, 28, 20, 2, 21, 16, 34, 19, 23, 8, 32, 15, 35, 7, 6]
+Tiempo de ejecución es: 7555
+Terminó en generación: 1000
+Fitness resultante: 294477092
+
+Ejecución: 22
+Genotipo resultante: [30, 1, 9, 10, 12, 5, 19, 32, 8, 3, 33, 17, 22, 14, 18, 2, 11, 20, 34, 27, 13, 16, 24, 26, 28, 4, 25, 31, 15, 29, 21, 35, 23, 7, 6]
+Tiempo de ejecución es: 7852
+Terminó en generación: 1000
+Fitness resultante: 292619019
+
+Ejecución: 23
+Genotipo resultante: [32, 14, 12, 5, 3, 20, 10, 1, 26, 18, 19, 25, 30, 28, 22, 17, 33, 11, 27, 13, 4, 29, 24, 6, 31, 8, 7, 21, 16, 23, 35, 15, 9, 34, 2]
+Tiempo de ejecución es: 8483
+Terminó en generación: 1000
+Fitness resultante: 307727591
+
+Ejecución: 24
+Genotipo resultante: [14, 1, 33, 3, 29, 5, 24, 22, 4, 12, 31, 30, 11, 9, 26, 25, 18, 17, 13, 27, 10, 23, 32, 28, 35, 8, 19, 21, 6, 34, 2, 7, 16, 15, 20]
+Tiempo de ejecución es: 8276
+Terminó en generación: 1000
+Fitness resultante: 294548533
+
+Ejecución: 25
+Genotipo resultante: [2, 32, 16, 21, 10, 24, 3, 22, 35, 19, 15, 7, 18, 6, 28, 23, 8, 11, 34, 27, 1, 17, 5, 31, 26, 13, 25, 12, 4, 33, 29, 14, 30, 9, 20]
+Tiempo de ejecución es: 7951
+Terminó en generación: 1000
+Fitness resultante: 308065258
+
+Ejecución: 26
+Genotipo resultante: [10, 25, 34, 28, 22, 2, 18, 8, 26, 33, 21, 4, 3, 11, 31, 32, 19, 5, 13, 27, 15, 17, 29, 6, 7, 30, 35, 16, 1, 24, 23, 14, 20, 9, 12]
+Tiempo de ejecución es: 9219
+Terminó en generación: 1000
+Fitness resultante: 307377827
+
+Ejecución: 27
+Genotipo resultante: [21, 20, 28, 7, 12, 6, 11, 1, 2, 17, 35, 32, 24, 19, 14, 23, 8, 10, 27, 34, 13, 30, 16, 26, 33, 15, 25, 29, 5, 31, 4, 9, 3, 18, 22]
+Tiempo de ejecución es: 7797
+Terminó en generación: 1000
+Fitness resultante: 336018017
+
+Ejecución: 28
+Genotipo resultante: [17, 14, 35, 6, 4, 21, 18, 30, 1, 20, 23, 15, 22, 12, 19, 28, 7, 31, 27, 13, 9, 32, 10, 34, 2, 11, 8, 33, 24, 3, 5, 29, 16, 26, 25]
+Tiempo de ejecución es: 7612
+Terminó en generación: 1000
+Fitness resultante: 324327105
+
+Ejecución: 29
+Genotipo resultante: [16, 31, 26, 3, 28, 18, 7, 11, 15, 35, 25, 23, 6, 21, 29, 22, 24, 4, 32, 27, 20, 13, 33, 12, 19, 30, 17, 1, 2, 5, 14, 9, 10, 34, 8]
+Tiempo de ejecución es: 8714
+Terminó en generación: 1000
+Fitness resultante: 307604073
+
+Ejecución: 30
+Genotipo resultante: [22, 3, 31, 1, 12, 29, 33, 5, 14, 11, 26, 17, 4, 32, 18, 25, 24, 20, 27, 13, 9, 16, 21, 6, 23, 8, 7, 34, 15, 2, 30, 35, 19, 28, 10]
+Tiempo de ejecución es: 8330
+Terminó en generación: 1000
+Fitness resultante: 293616402
+
+N=1000, muta=100
+
